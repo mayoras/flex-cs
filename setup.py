@@ -28,6 +28,9 @@ setup(
     url="https://github.com/mayoras/flex-cs",
     packages=find_packages(),
     install_requires=["flexible-fl"],
+    extras_require={
+        "develop": ["pytest", "pytest-cov", "pytest-xdist", "coverage", "jinja2"]
+    },
     python_requires=">=3.8.10",
     classifiers=[
         "Development Status :: 4 - Beta",
