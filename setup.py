@@ -27,7 +27,7 @@ setup(
     long_description_content_type="text/markdown",
     url="https://github.com/mayoras/flex-cs",
     packages=find_packages(),
-    install_requires=["flexible-fl"],
+    install_requires=["flexible-fl", "matplotlib"],
     extras_require={
         "develop": ["pytest", "pytest-cov", "pytest-xdist", "coverage", "jinja2"]
     },
