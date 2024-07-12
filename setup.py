@@ -29,7 +29,7 @@ setup(
     packages=find_packages(),
     install_requires=["flexible-fl", "matplotlib"],
     extras_require={
-        "develop": ["pytest", "pytest-cov", "pytest-xdist", "coverage", "jinja2"]
+        "develop": ["pytest", "pytest-cov", "pytest-xdist", "coverage", "jinja2", "pylint"]
     },
     python_requires=">=3.8.10",
     classifiers=[
