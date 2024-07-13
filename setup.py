@@ -18,7 +18,7 @@ Copyright (C) 2024  Instituto Andaluz Interuniversitario en Ciencia de Datos e I
 from setuptools import find_packages, setup
 
 setup(
-    name="flexCS",
+    name="flex-cs",
     version="0.0.1",
     author="Cesar Mayora",
     author_email="cesarmay@protonmail.com",
@@ -29,7 +29,15 @@ setup(
     packages=find_packages(),
     install_requires=["flexible-fl", "matplotlib"],
     extras_require={
-        "develop": ["pytest", "pytest-cov", "pytest-xdist", "coverage", "jinja2", "pylint"]
+        "develop": [
+            "pytest",
+            "pytest-cov",
+            "pytest-xdist",
+            "coverage",
+            "jinja2",
+            "pylint",
+            "black",
+        ]
     },
     python_requires=">=3.8.10",
     classifiers=[
