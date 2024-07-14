@@ -37,6 +37,8 @@ setup(
             "jinja2",
             "pylint",
             "black",
+            "torch",
+            "torchvision",
         ]
     },
     python_requires=">=3.8.10",
