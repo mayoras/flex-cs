@@ -1,0 +1,400 @@
+
+Running round: 1 of 100
+Selected clients for this round: [16, 30, 40, 64, 74, 89]
+Server: Test acc: 0.1256, test loss: 2.2806, Round time: 7.1104
+
+Running round: 2 of 100
+Selected clients for this round: [16, 34, 38, 40, 66, 89]
+Server: Test acc: 0.1876, test loss: 2.1423, Round time: 7.3883
+
+Running round: 3 of 100
+Selected clients for this round: [1, 52, 53, 81, 83, 87]
+Server: Test acc: 0.2297, test loss: 2.0454, Round time: 6.3592
+
+Running round: 4 of 100
+Selected clients for this round: [9, 18, 24, 43, 64, 80]
+Server: Test acc: 0.2890, test loss: 1.9711, Round time: 7.5344
+
+Running round: 5 of 100
+Selected clients for this round: [19, 25, 37, 45, 51, 84]
+Server: Test acc: 0.2969, test loss: 1.9142, Round time: 6.3828
+
+Running round: 6 of 100
+Selected clients for this round: [23, 42, 49, 69, 78, 92]
+Server: Test acc: 0.3430, test loss: 1.8531, Round time: 7.5721
+
+Running round: 7 of 100
+Selected clients for this round: [27, 41, 42, 55, 72, 74]
+Server: Test acc: 0.3703, test loss: 1.8045, Round time: 6.4737
+
+Running round: 8 of 100
+Selected clients for this round: [29, 31, 59, 66, 68, 79]
+Server: Test acc: 0.3834, test loss: 1.7510, Round time: 7.4855
+
+Running round: 9 of 100
+Selected clients for this round: [17, 36, 67, 74, 85, 95]
+Server: Test acc: 0.3992, test loss: 1.7048, Round time: 6.5606
+
+Running round: 10 of 100
+Selected clients for this round: [39, 66, 73, 82, 92, 94]
+Server: Test acc: 0.3997, test loss: 1.6807, Round time: 7.6346
+
+Running round: 11 of 100
+Selected clients for this round: [7, 16, 26, 40, 66, 97]
+Server: Test acc: 0.4140, test loss: 1.6532, Round time: 6.4303
+
+Running round: 12 of 100
+Selected clients for this round: [8, 20, 30, 44, 46, 82]
+Server: Test acc: 0.4210, test loss: 1.6220, Round time: 7.6813
+
+Running round: 13 of 100
+Selected clients for this round: [5, 6, 18, 34, 57, 99]
+Server: Test acc: 0.4256, test loss: 1.6093, Round time: 6.5880
+
+Running round: 14 of 100
+Selected clients for this round: [0, 1, 10, 21, 54, 57]
+Server: Test acc: 0.4314, test loss: 1.5921, Round time: 7.6214
+
+Running round: 15 of 100
+Selected clients for this round: [15, 41, 50, 61, 71, 94]
+Server: Test acc: 0.4331, test loss: 1.5767, Round time: 6.5236
+
+Running round: 16 of 100
+Selected clients for this round: [14, 32, 35, 52, 62, 65]
+Server: Test acc: 0.4380, test loss: 1.5506, Round time: 7.5893
+
+Running round: 17 of 100
+Selected clients for this round: [12, 60, 77, 86, 90, 91]
+Server: Test acc: 0.4429, test loss: 1.5613, Round time: 6.7783
+
+Running round: 18 of 100
+Selected clients for this round: [4, 11, 28, 47, 64, 93]
+Server: Test acc: 0.4515, test loss: 1.5223, Round time: 7.5852
+
+Running round: 19 of 100
+Selected clients for this round: [2, 5, 42, 70, 89, 96]
+Server: Test acc: 0.4536, test loss: 1.5143, Round time: 6.7715
+
+Running round: 20 of 100
+Selected clients for this round: [4, 11, 58, 63, 75, 98]
+Server: Test acc: 0.4583, test loss: 1.5144, Round time: 7.4641
+
+Running round: 21 of 100
+Selected clients for this round: [3, 21, 24, 48, 56, 76]
+Server: Test acc: 0.4595, test loss: 1.5045, Round time: 7.0533
+
+Running round: 22 of 100
+Selected clients for this round: [13, 22, 29, 33, 62, 88]
+Server: Test acc: 0.4639, test loss: 1.4911, Round time: 7.2991
+
+Running round: 23 of 100
+Selected clients for this round: [4, 38, 53, 81, 82, 83]
+Server: Test acc: 0.4706, test loss: 1.4751, Round time: 7.0083
+
+Running round: 24 of 100
+Selected clients for this round: [19, 25, 26, 43, 77, 87]
+Server: Test acc: 0.4736, test loss: 1.4784, Round time: 7.0599
+
+Running round: 25 of 100
+Selected clients for this round: [9, 37, 49, 72, 80, 99]
+Server: Test acc: 0.4784, test loss: 1.4528, Round time: 7.4483
+
+Running round: 26 of 100
+Selected clients for this round: [27, 31, 43, 45, 69, 84]
+Server: Test acc: 0.4745, test loss: 1.4623, Round time: 6.7050
+
+Running round: 27 of 100
+Selected clients for this round: [14, 17, 32, 51, 55, 79]
+Server: Test acc: 0.4783, test loss: 1.4427, Round time: 7.6050
+
+Running round: 28 of 100
+Selected clients for this round: [0, 16, 58, 67, 68, 78]
+Server: Test acc: 0.4840, test loss: 1.4307, Round time: 6.8657
+
+Running round: 29 of 100
+Selected clients for this round: [23, 30, 34, 50, 55, 92]
+Server: Test acc: 0.4850, test loss: 1.4263, Round time: 7.6060
+
+Running round: 30 of 100
+Selected clients for this round: [30, 36, 40, 59, 90, 95]
+Server: Test acc: 0.4832, test loss: 1.4249, Round time: 6.4004
+
+Running round: 31 of 100
+Selected clients for this round: [7, 18, 23, 40, 73, 85]
+Server: Test acc: 0.4903, test loss: 1.4211, Round time: 7.6146
+
+Running round: 32 of 100
+Selected clients for this round: [2, 6, 20, 39, 70, 74]
+Server: Test acc: 0.4945, test loss: 1.4015, Round time: 6.6553
+
+Running round: 33 of 100
+Selected clients for this round: [3, 8, 57, 66, 71, 97]
+Server: Test acc: 0.4960, test loss: 1.4116, Round time: 7.7546
+
+Running round: 34 of 100
+Selected clients for this round: [10, 35, 44, 52, 90, 91]
+Server: Test acc: 0.5016, test loss: 1.3897, Round time: 6.5045
+
+Running round: 35 of 100
+Selected clients for this round: [1, 27, 41, 61, 80, 86]
+Server: Test acc: 0.4971, test loss: 1.3955, Round time: 7.5065
+
+Running round: 36 of 100
+Selected clients for this round: [15, 31, 42, 64, 65, 89]
+Server: Test acc: 0.5043, test loss: 1.3848, Round time: 6.3771
+
+Running round: 37 of 100
+Selected clients for this round: [46, 54, 75, 85, 95, 98]
+Server: Test acc: 0.5063, test loss: 1.3759, Round time: 7.9634
+
+Running round: 38 of 100
+Selected clients for this round: [13, 25, 60, 74, 79, 81]
+Server: Test acc: 0.5064, test loss: 1.3784, Round time: 6.6068
+
+Running round: 39 of 100
+Selected clients for this round: [20, 22, 34, 56, 70, 94]
+Server: Test acc: 0.5085, test loss: 1.3765, Round time: 7.7667
+
+Running round: 40 of 100
+Selected clients for this round: [17, 24, 33, 53, 82, 94]
+Server: Test acc: 0.5138, test loss: 1.3595, Round time: 6.5642
+
+Running round: 41 of 100
+Selected clients for this round: [9, 19, 26, 49, 69, 92]
+Server: Test acc: 0.5130, test loss: 1.3672, Round time: 7.7065
+
+Running round: 42 of 100
+Selected clients for this round: [21, 29, 54, 63, 67, 96]
+Server: Test acc: 0.5163, test loss: 1.3569, Round time: 6.7833
+
+Running round: 43 of 100
+Selected clients for this round: [12, 26, 48, 76, 77, 88]
+Server: Test acc: 0.5182, test loss: 1.3533, Round time: 7.8231
+
+Running round: 44 of 100
+Selected clients for this round: [15, 30, 40, 83, 85, 87]
+Server: Test acc: 0.5195, test loss: 1.3455, Round time: 6.7508
+
+Running round: 45 of 100
+Selected clients for this round: [37, 43, 49, 68, 73, 99]
+Server: Test acc: 0.5225, test loss: 1.3445, Round time: 7.4280
+
+Running round: 46 of 100
+Selected clients for this round: [5, 25, 28, 29, 34, 86]
+Server: Test acc: 0.5223, test loss: 1.3432, Round time: 7.3223
+
+Running round: 47 of 100
+Selected clients for this round: [27, 30, 38, 81, 84, 92]
+Server: Test acc: 0.5216, test loss: 1.3407, Round time: 7.1611
+
+Running round: 48 of 100
+Selected clients for this round: [11, 41, 45, 74, 89, 93]
+Server: Test acc: 0.5194, test loss: 1.3288, Round time: 7.5590
+
+Running round: 49 of 100
+Selected clients for this round: [17, 18, 35, 64, 79, 88]
+Server: Test acc: 0.5209, test loss: 1.3315, Round time: 6.7965
+
+Running round: 50 of 100
+Selected clients for this round: [34, 40, 56, 67, 75, 87]
+Server: Test acc: 0.5248, test loss: 1.3408, Round time: 7.7976
+
+Running round: 51 of 100
+Selected clients for this round: [33, 36, 39, 57, 86, 98]
+Server: Test acc: 0.5279, test loss: 1.3366, Round time: 6.6824
+
+Running round: 52 of 100
+Selected clients for this round: [4, 6, 26, 72, 75, 91]
+Server: Test acc: 0.5260, test loss: 1.3346, Round time: 7.8798
+
+Running round: 53 of 100
+Selected clients for this round: [9, 19, 59, 65, 71, 98]
+Server: Test acc: 0.5275, test loss: 1.3293, Round time: 6.5756
+
+Running round: 54 of 100
+Selected clients for this round: [10, 25, 27, 47, 53, 80]
+Server: Test acc: 0.5281, test loss: 1.3236, Round time: 7.5946
+
+Running round: 55 of 100
+Selected clients for this round: [16, 22, 37, 43, 81, 84]
+Server: Test acc: 0.5323, test loss: 1.3161, Round time: 6.5100
+
+Running round: 56 of 100
+Selected clients for this round: [23, 30, 40, 49, 62, 86]
+Server: Test acc: 0.5317, test loss: 1.3215, Round time: 7.7022
+
+Running round: 57 of 100
+Selected clients for this round: [24, 34, 63, 68, 69, 79]
+Server: Test acc: 0.5317, test loss: 1.3298, Round time: 6.6174
+
+Running round: 58 of 100
+Selected clients for this round: [2, 7, 17, 89, 90, 92]
+Server: Test acc: 0.5350, test loss: 1.3292, Round time: 7.7479
+
+Running round: 59 of 100
+Selected clients for this round: [1, 55, 64, 67, 81, 93]
+Server: Test acc: 0.5346, test loss: 1.3216, Round time: 6.5650
+
+Running round: 60 of 100
+Selected clients for this round: [34, 35, 58, 61, 70, 82]
+Server: Test acc: 0.5330, test loss: 1.3154, Round time: 7.7221
+
+Running round: 61 of 100
+Selected clients for this round: [27, 30, 40, 52, 69, 78]
+Server: Test acc: 0.5362, test loss: 1.3217, Round time: 6.5213
+
+Running round: 62 of 100
+Selected clients for this round: [21, 32, 39, 60, 86, 94]
+Server: Test acc: 0.5337, test loss: 1.3027, Round time: 7.7642
+
+Running round: 63 of 100
+Selected clients for this round: [14, 19, 26, 43, 45, 89]
+Server: Test acc: 0.5389, test loss: 1.3157, Round time: 6.6542
+
+Running round: 64 of 100
+Selected clients for this round: [8, 19, 25, 73, 79, 97]
+Server: Test acc: 0.5389, test loss: 1.3047, Round time: 7.4408
+
+Running round: 65 of 100
+Selected clients for this round: [0, 7, 17, 64, 67, 75]
+Server: Test acc: 0.5398, test loss: 1.3007, Round time: 6.9826
+
+Running round: 66 of 100
+Selected clients for this round: [9, 18, 48, 57, 70, 98]
+Server: Test acc: 0.5387, test loss: 1.2956, Round time: 7.4087
+
+Running round: 67 of 100
+Selected clients for this round: [18, 21, 30, 43, 66, 86]
+Server: Test acc: 0.5393, test loss: 1.2858, Round time: 7.1550
+
+Running round: 68 of 100
+Selected clients for this round: [27, 33, 40, 59, 77, 83]
+Server: Test acc: 0.5381, test loss: 1.2947, Round time: 7.0377
+
+Running round: 69 of 100
+Selected clients for this round: [2, 20, 51, 68, 91, 99]
+Server: Test acc: 0.5400, test loss: 1.2886, Round time: 7.8652
+
+Running round: 70 of 100
+Selected clients for this round: [9, 31, 34, 56, 66, 95]
+Server: Test acc: 0.5409, test loss: 1.3111, Round time: 6.7168
+
+Running round: 71 of 100
+Selected clients for this round: [13, 35, 49, 55, 67, 97]
+Server: Test acc: 0.5442, test loss: 1.2907, Round time: 7.8619
+
+Running round: 72 of 100
+Selected clients for this round: [8, 30, 43, 65, 81, 86]
+Server: Test acc: 0.5455, test loss: 1.2782, Round time: 6.7261
+
+Running round: 73 of 100
+Selected clients for this round: [22, 26, 31, 40, 50, 89]
+Server: Test acc: 0.5421, test loss: 1.2932, Round time: 7.7060
+
+Running round: 74 of 100
+Selected clients for this round: [15, 17, 50, 64, 79, 84]
+Server: Test acc: 0.5449, test loss: 1.2807, Round time: 6.6148
+
+Running round: 75 of 100
+Selected clients for this round: [27, 38, 58, 64, 71, 88]
+Server: Test acc: 0.5467, test loss: 1.2805, Round time: 7.8202
+
+Running round: 76 of 100
+Selected clients for this round: [6, 17, 22, 25, 71, 85]
+Server: Test acc: 0.5475, test loss: 1.2910, Round time: 6.7063
+
+Running round: 77 of 100
+Selected clients for this round: [3, 10, 44, 76, 85, 90]
+Server: Test acc: 0.5490, test loss: 1.2888, Round time: 7.7601
+
+Running round: 78 of 100
+Selected clients for this round: [1, 33, 34, 42, 67, 98]
+Server: Test acc: 0.5480, test loss: 1.2754, Round time: 6.7356
+
+Running round: 79 of 100
+Selected clients for this round: [12, 37, 68, 75, 86, 95]
+Server: Test acc: 0.5484, test loss: 1.2814, Round time: 7.7588
+
+Running round: 80 of 100
+Selected clients for this round: [11, 19, 67, 79, 82, 88]
+Server: Test acc: 0.5496, test loss: 1.2683, Round time: 6.8234
+
+Running round: 81 of 100
+Selected clients for this round: [26, 27, 30, 35, 65, 72]
+Server: Test acc: 0.5490, test loss: 1.2781, Round time: 7.5248
+
+Running round: 82 of 100
+Selected clients for this round: [7, 36, 42, 46, 53, 89]
+Server: Test acc: 0.5479, test loss: 1.2784, Round time: 6.9653
+
+Running round: 83 of 100
+Selected clients for this round: [17, 21, 40, 42, 71, 73]
+Server: Test acc: 0.5502, test loss: 1.2783, Round time: 7.3033
+
+Running round: 84 of 100
+Selected clients for this round: [24, 25, 40, 69, 81, 96]
+Server: Test acc: 0.5500, test loss: 1.2742, Round time: 6.9644
+
+Running round: 85 of 100
+Selected clients for this round: [15, 34, 43, 45, 58, 79]
+Server: Test acc: 0.5524, test loss: 1.2707, Round time: 7.2096
+
+Running round: 86 of 100
+Selected clients for this round: [12, 17, 30, 56, 64, 96]
+Server: Test acc: 0.5501, test loss: 1.2658, Round time: 7.2261
+
+Running round: 87 of 100
+Selected clients for this round: [19, 27, 30, 71, 86, 91]
+Server: Test acc: 0.5506, test loss: 1.2643, Round time: 7.0249
+
+Running round: 88 of 100
+Selected clients for this round: [35, 49, 68, 70, 72, 98]
+Server: Test acc: 0.5487, test loss: 1.2892, Round time: 7.8814
+
+Running round: 89 of 100
+Selected clients for this round: [9, 27, 43, 63, 68, 75]
+Server: Test acc: 0.5480, test loss: 1.2652, Round time: 6.6191
+
+Running round: 90 of 100
+Selected clients for this round: [26, 59, 61, 62, 79, 97]
+Server: Test acc: 0.5467, test loss: 1.2827, Round time: 7.6730
+
+Running round: 91 of 100
+Selected clients for this round: [26, 41, 52, 57, 64, 81]
+Server: Test acc: 0.5484, test loss: 1.2654, Round time: 6.4911
+
+Running round: 92 of 100
+Selected clients for this round: [10, 22, 51, 67, 83, 86]
+Server: Test acc: 0.5512, test loss: 1.2635, Round time: 7.9027
+
+Running round: 93 of 100
+Selected clients for this round: [34, 48, 66, 79, 89, 97]
+Server: Test acc: 0.5525, test loss: 1.2607, Round time: 6.4500
+
+Running round: 94 of 100
+Selected clients for this round: [17, 54, 57, 60, 65, 74]
+Server: Test acc: 0.5534, test loss: 1.2578, Round time: 7.7645
+
+Running round: 95 of 100
+Selected clients for this round: [15, 18, 25, 35, 37, 38]
+Server: Test acc: 0.5543, test loss: 1.2625, Round time: 6.5815
+
+Running round: 96 of 100
+Selected clients for this round: [1, 8, 11, 19, 21, 99]
+Server: Test acc: 0.5527, test loss: 1.2578, Round time: 7.7659
+
+Running round: 97 of 100
+Selected clients for this round: [19, 32, 34, 69, 73, 82]
+Server: Test acc: 0.5535, test loss: 1.2684, Round time: 6.6088
+
+Running round: 98 of 100
+Selected clients for this round: [10, 43, 62, 64, 72, 86]
+Server: Test acc: 0.5525, test loss: 1.2669, Round time: 7.6884
+
+Running round: 99 of 100
+Selected clients for this round: [0, 17, 20, 22, 65, 67]
+Server: Test acc: 0.5536, test loss: 1.2631, Round time: 6.7075
+
+Running round: 100 of 100
+Selected clients for this round: [27, 62, 76, 79, 87, 90]
+Server: Test acc: 0.5538, test loss: 1.2681, Round time: 7.8232

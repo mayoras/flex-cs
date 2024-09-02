@@ -1,0 +1,738 @@
+
+Running round: 1 of 20
+RR round
+Selected clients for this round: 6
+GTG-Shapley lasted: 148.43246459960938 seconds to complete
+GTG-Shapley values:  [0.02066928396622347, -0.008568874994913692, 0.008643794059753407, -0.009318470954895056, 0.007752210895220435, 0.00443886518478398]
+Server: Test acc: 0.1303, test loss: 2.2936, round time: 157.1057448387146 sec
+
+Running round: 2 of 20
+RR round
+Selected clients for this round: 6
+GTG-Shapley lasted: 145.96480250358582 seconds to complete
+GTG-Shapley values:  [0.02212903400262195, 0.01904633790254586, 0.02524277071158093, 0.016324476401011128, 0.018515220284461936, 0.019224387904008267]
+Server: Test acc: 0.2339, test loss: 2.2139, round time: 153.7873890399933 sec
+
+Running round: 3 of 20
+RR round
+Selected clients for this round: 6
+GTG-Shapley lasted: 146.8137981891632 seconds to complete
+GTG-Shapley values:  [0.025136799613634686, 0.012478398531675289, 0.00834057281414663, 0.03743296911319099, 0.01556889464457828, 0.028032179425160064]
+Server: Test acc: 0.2528, test loss: 2.1340, round time: 154.76022481918335 sec
+
+Running round: 4 of 20
+RR round
+Selected clients for this round: 6
+GTG-Shapley lasted: 148.3206763267517 seconds to complete
+GTG-Shapley values:  [0.031708198289076506, 0.0029651999473572044, 0.036252855261166915, 0.025718216101328534, 0.029546502480904253, 0.026689140250285497]
+Server: Test acc: 0.3425, test loss: 2.0211, round time: 156.18822813034058 sec
+
+Running round: 5 of 20
+RR round
+Selected clients for this round: 6
+GTG-Shapley lasted: 151.2480661869049 seconds to complete
+GTG-Shapley values:  [0.010030929744243638, 0.02425831854343415, 0.01470890914400419, 0.015721991161505383, 0.011067246397336325, 0.02269517680009202]
+Server: Test acc: 0.3449, test loss: 1.9562, round time: 159.46085953712463 sec
+
+Running round: 6 of 20
+RR round
+Selected clients for this round: 6
+GTG-Shapley lasted: 149.65212774276733 seconds to complete
+GTG-Shapley values:  [0.0021834698816140343, 0.011678849160671245, 0.01462861672043799, 0.012447744359572724, 0.008399674793084502, 0.005679511775573094]
+Server: Test acc: 0.3468, test loss: 1.9102, round time: 157.41344952583313 sec
+
+Running round: 7 of 20
+RR round
+Selected clients for this round: 6
+GTG-Shapley lasted: 150.70132422447205 seconds to complete
+GTG-Shapley values:  [0.007225450128316879, 0.001702911406755427, 0.017626461138327904, 0.009123129397630693, 0.002539637933174743, 0.015566258380810395]
+Server: Test acc: 0.3493, test loss: 1.8676, round time: 158.56544494628906 sec
+
+Running round: 8 of 20
+RR round
+Selected clients for this round: 6
+GTG-Shapley lasted: 189.6898946762085 seconds to complete
+GTG-Shapley values:  [0.007272898157437657, 0.002634629011154144, -0.0015179648001988717, 0.008248127500216175, 0.00934273064136506, -0.00192764858404794]
+Server: Test acc: 0.3548, test loss: 1.8742, round time: 197.36938405036926 sec
+
+Running round: 9 of 20
+RR round
+Selected clients for this round: 6
+GTG-Shapley lasted: 179.8549735546112 seconds to complete
+GTG-Shapley values:  [4.818956057227967e-05, 0.0009124112129211455, 0.0022477265199025635, 0.0076157850027084245, 0.00563065906365714, 0.013996914823849986]
+Server: Test acc: 0.3656, test loss: 1.8448, round time: 187.7992422580719 sec
+
+Running round: 10 of 20
+RR round
+Selected clients for this round: 6
+GTG-Shapley lasted: 146.98647260665894 seconds to complete
+GTG-Shapley values:  [0.007832904656728071, 0.005412502586841579, -0.0024346604943275285, -0.0010586522519588546, 0.007752752304077146, 0.006335335969924916]
+Server: Test acc: 0.3638, test loss: 1.8332, round time: 154.86309695243835 sec
+
+Running round: 11 of 20
+RR round
+Selected clients for this round: 6
+GTG-Shapley lasted: 215.22205209732056 seconds to complete
+GTG-Shapley values:  [0.004145137965679163, 0.005359064373705153, 0.00042193101512061966, 0.0006788129607836602, 0.005901438991228752, 0.0044822105103069]
+Server: Test acc: 0.3620, test loss: 1.8377, round time: 222.91339015960693 sec
+
+Running round: 12 of 20
+RR round
+Selected clients for this round: 6
+GTG-Shapley lasted: 146.51225876808167 seconds to complete
+GTG-Shapley values:  [0.006076568365097068, 0.00046639790137609216, 0.00403181115786234, -0.002202854802211107, 0.009019848455985378, 0.0002501937250296571]
+Server: Test acc: 0.3515, test loss: 1.8440, round time: 153.98776745796204 sec
+
+Running round: 13 of 20
+RR round
+Selected clients for this round: 6
+GTG-Shapley lasted: 182.42542362213135 seconds to complete
+GTG-Shapley values:  [-0.0020033490657806433, -0.0018248526255289464, 0.005474939942359954, 0.0060934786001841205, 0.007977262536684694, 0.0009338106711705911]
+Server: Test acc: 0.3502, test loss: 1.8580, round time: 190.29160237312317 sec
+
+Running round: 14 of 20
+RR round
+Selected clients for this round: 6
+GTG-Shapley lasted: 175.07037496566772 seconds to complete
+GTG-Shapley values:  [0.00021146873633067406, 0.0026939707994460883, -0.004331845442454033, 0.0014759145180384052, 0.0005268243948618394, 0.010923327604929593]
+Server: Test acc: 0.3539, test loss: 1.8370, round time: 182.5283980369568 sec
+
+Running round: 15 of 20
+RR round
+Selected clients for this round: 6
+GTG-Shapley lasted: 255.60967445373535 seconds to complete
+GTG-Shapley values:  [0.005868379700751524, 0.0014130298580441933, 0.004006387222380854, 0.008577785321644353, -0.004418952408291048, -0.002536030894234085]
+Server: Test acc: 0.3503, test loss: 1.8471, round time: 263.50564098358154 sec
+
+Running round: 16 of 20
+RR round
+Selected clients for this round: 6
+GTG-Shapley lasted: 146.81883430480957 seconds to complete
+GTG-Shapley values:  [0.006715503831704411, 0.001923498262961676, -0.002701597164074578, 0.006833261996507624, 0.00702465176582336, -0.0037805207073688396]
+Server: Test acc: 0.3498, test loss: 1.8585, round time: 154.3758111000061 sec
+
+Running round: 17 of 20
+Last RR round
+Selected clients for this round: 6
+GTG-Shapley lasted: 292.4832887649536 seconds to complete
+GTG-Shapley values:  [-0.0019898394743601785, 0.004023599872986468, -0.004648076991240201, -0.005284318948785474, 0.009243320052822432, 0.0027453042566776137]
+Server: Test acc: 0.3541, test loss: 1.8408, round time: 299.84543013572693 sec
+
+Running round: 18 of 20
+Best selected:  tensor([15, 20, 18, 22, 17, 23])
+Selected clients for this round: 6
+GTG-Shapley lasted: 801.725093126297 seconds to complete
+GTG-Shapley values:  [0.002989021079106768, -0.0008555938800175906, -0.002048044674324253, -0.0010142371961564638, 0.003494767889832023, -0.0007917980804587894]
+Server: Test acc: 0.3464, test loss: 1.8717, round time: 809.5643353462219 sec
+
+Running round: 19 of 20
+Best selected:  tensor([21, 12, 25, 29,  6,  0])
+Selected clients for this round: 6
+GTG-Shapley lasted: 180.84219884872437 seconds to complete
+GTG-Shapley values:  [0.0009181789557139182, 0.006032186746597305, -0.007752139170964581, 0.007104601065317791, 0.01027870774269105, 0.0004460555315017582]
+Server: Test acc: 0.3398, test loss: 1.8838, round time: 188.1680407524109 sec
+
+Running round: 20 of 20
+Best selected:  tensor([15, 11,  7, 10, 38, 20])
+Selected clients for this round: 6
+GTG-Shapley lasted: 584.8069729804993 seconds to complete
+GTG-Shapley values:  [0.003053964922825498, -0.003357640715936814, 0.002125250982741514, 0.00310322704414525, -0.0031055749083558648, 0.006283496320247647]
+Server: Test acc: 0.3556, test loss: 1.8654, round time: 592.2349390983582 sec
+
+Running round: 21 of 40
+Best selected:  tensor([25, 22, 21, 27, 16, 41])
+Selected clients for this round: 6
+GTG-Shapley lasted: 1021.9352622032166 seconds to complete
+GTG-Shapley values:  [0.004445422346564531, 0.007742193204233019, -0.00811374369023861, 0.003773513915895038, -0.0012487798929214672, -0.004984477367894412]
+Server: Test acc: 0.3411, test loss: 1.8952, round time: 1030.817771434784 sec
+
+Running round: 22 of 40
+Best selected:  tensor([18, 26, 32, 15,  6, 53])
+Selected clients for this round: 6
+GTG-Shapley lasted: 224.0690951347351 seconds to complete
+GTG-Shapley values:  [0.0011577097906006533, 0.01076743702093762, -0.0007371625966495827, 0.0004921456178029625, 0.001425077683395812, 0.006457205944591148]
+Server: Test acc: 0.3482, test loss: 1.8594, round time: 232.0737702846527 sec
+
+Running round: 23 of 40
+Best selected:  tensor([17, 15, 21, 23, 25, 13])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1087.315143585205 seconds to complete
+GTG-Shapley values:  [0.0028299657834900726, 0.004904864364200175, -0.0017042923635906674, -0.0004628800683551376, -0.0030783026748233363, -0.0033036641610993266]
+Server: Test acc: 0.3418, test loss: 1.8768, round time: 1095.1468126773834 sec
+
+Running round: 24 of 40
+Best selected:  tensor([33, 38, 15, 31,  8, 29])
+Selected clients for this round: 6
+GTG-Shapley lasted: 507.81547236442566 seconds to complete
+GTG-Shapley values:  [0.00019040547666095852, 0.006666626745746241, 0.0022233277559280474, 0.0018564043300492545, -0.0052637340057463695, -0.0026330234039397328]
+Server: Test acc: 0.3298, test loss: 1.9168, round time: 515.512951374054 sec
+
+Running round: 25 of 40
+Best selected:  tensor([28,  7, 15, 83,  0, 20])
+Selected clients for this round: 6
+GTG-Shapley lasted: 328.91560554504395 seconds to complete
+GTG-Shapley values:  [0.006264073650042219, 0.0046759475160528296, 0.00258869308012503, -0.001367450422710832, -0.0023670412875987546, 0.0019507999773379025]
+Server: Test acc: 0.3477, test loss: 1.8887, round time: 337.4308943748474 sec
+
+Running round: 26 of 40
+Best selected:  tensor([11, 53,  9, 24, 21, 16])
+Selected clients for this round: 6
+GTG-Shapley lasted: 432.9028754234314 seconds to complete
+GTG-Shapley values:  [-0.0018113071719805312, -0.00023872670200133443, -0.00011964879102176041, 0.0041015382442209335, 0.0006343114707205325, 0.002722765091392712]
+Server: Test acc: 0.3458, test loss: 1.8796, round time: 440.4272413253784 sec
+
+Running round: 27 of 40
+Best selected:  tensor([15,  6, 18, 46,  0, 98])
+Selected clients for this round: 6
+GTG-Shapley lasted: 904.6675310134888 seconds to complete
+GTG-Shapley values:  [0.0058084330161412385, 0.0015309793949126959, 0.0031715820233027036, 0.0002408323685328285, -0.007883755485216805, -0.0003391098578771083]
+Server: Test acc: 0.3499, test loss: 1.8811, round time: 912.1518223285675 sec
+
+Running round: 28 of 40
+Best selected:  tensor([39, 70, 15,  7, 21, 25])
+Selected clients for this round: 6
+GTG-Shapley lasted: 628.676349401474 seconds to complete
+GTG-Shapley values:  [0.005018813703574396, 0.0027574585348952296, 0.003915763076613938, 0.00033060709635417563, -0.0019247718885833174, -0.0075654990532819]
+Server: Test acc: 0.3430, test loss: 1.9082, round time: 636.6719155311584 sec
+
+Running round: 29 of 40
+Best selected:  tensor([12,  2, 87, 17, 29,  0])
+Selected clients for this round: 6
+GTG-Shapley lasted: 618.156742811203 seconds to complete
+GTG-Shapley values:  [0.0018144419964621948, -0.0046972935690599345, 0.0023381910487717214, -0.0010332776050941642, 0.001976899715030901, 0.004262573052855099]
+Server: Test acc: 0.3423, test loss: 1.8929, round time: 625.7588293552399 sec
+
+Running round: 30 of 40
+Best selected:  tensor([34, 14, 22, 15, 45, 32])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1097.7215030193329 seconds to complete
+GTG-Shapley values:  [0.006235701474878525, 0.0025137966208987734, -0.012017059458626652, 0.0006446171138021728, -0.00047673063145743476, -0.00186661197079552]
+Server: Test acc: 0.3337, test loss: 1.9387, round time: 1105.580276966095 sec
+
+Running round: 31 of 40
+Best selected:  tensor([21, 76,  7, 54,  8, 58])
+Selected clients for this round: 6
+GTG-Shapley lasted: 217.69417905807495 seconds to complete
+GTG-Shapley values:  [0.0021130134661992484, -0.0028314106994204924, 0.003255679541163946, 0.0025500820742713082, 0.0005294907424185123, 0.0032807581954532347]
+Server: Test acc: 0.3364, test loss: 1.9322, round time: 225.23573231697083 sec
+
+Running round: 32 of 40
+Best selected:  tensor([ 4, 53,  6, 20, 15, 13])
+Selected clients for this round: 6
+GTG-Shapley lasted: 451.25584602355957 seconds to complete
+GTG-Shapley values:  [0.002914212230179045, 0.0014843130277262713, 0.0036787616709867835, 0.00010265799032313814, -0.00618129612671004, 0.0036461513075563465]
+Server: Test acc: 0.3452, test loss: 1.9231, round time: 459.1155254840851 sec
+
+Running round: 33 of 40
+Best selected:  tensor([51, 23, 26, 10, 21, 18])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1098.2411088943481 seconds to complete
+GTG-Shapley values:  [-0.004149445990721366, -0.0015378772219021971, 0.000652812586890338, -0.0033149153987566482, 0.003914392259385865, 0.0027436129583252936]
+Server: Test acc: 0.3446, test loss: 1.8917, round time: 1106.0935649871826 sec
+
+Running round: 34 of 40
+Best selected:  tensor([14, 42, 27, 36,  0, 38])
+Selected clients for this round: 6
+GTG-Shapley lasted: 806.344578742981 seconds to complete
+GTG-Shapley values:  [0.002921891167308348, 0.0022493425643805194, 0.0007577835610418612, -0.0011654648816946914, -0.0024307846571459965, -0.0007636254484003355]
+Server: Test acc: 0.3370, test loss: 1.9201, round time: 813.7571141719818 sec
+
+Running round: 35 of 40
+Best selected:  tensor([25, 11, 94, 15, 29, 93])
+Selected clients for this round: 6
+GTG-Shapley lasted: 377.2095832824707 seconds to complete
+GTG-Shapley values:  [0.0019551416238149195, -0.0026508862773577373, -0.0008360472321509975, 0.0010569135348002265, 0.0019951370358467133, 0.00533925354480745]
+Server: Test acc: 0.3517, test loss: 1.8919, round time: 385.39677333831787 sec
+
+Running round: 36 of 40
+Best selected:  tensor([ 7, 31, 90, 53, 16, 12])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1091.0598804950714 seconds to complete
+GTG-Shapley values:  [0.002637252344025498, 0.0017336662279234805, -0.0005874707301457811, -0.001894221107165019, 0.0008148386412196762, -0.0018481010198593292]
+Server: Test acc: 0.3415, test loss: 1.9236, round time: 1098.585863828659 sec
+
+Running round: 37 of 40
+Best selected:  tensor([21,  6, 83, 87,  0, 26])
+Selected clients for this round: 6
+GTG-Shapley lasted: 528.2120852470398 seconds to complete
+GTG-Shapley values:  [0.002022213879085725, -0.003363781103066029, 0.0010700412449382631, 0.004563640554745972, -0.0003947954802286037, 0.0004765240209443245]
+Server: Test acc: 0.3431, test loss: 1.9073, round time: 535.6607077121735 sec
+
+Running round: 38 of 40
+Best selected:  tensor([59, 13, 15, 94,  9, 17])
+Selected clients for this round: 6
+GTG-Shapley lasted: 398.01934003829956 seconds to complete
+GTG-Shapley values:  [0.0005481057997905711, -0.0015674488110975846, -0.003929485516114662, -0.0027509543028744737, 0.009808231845046537, 0.003427831873749244]
+Server: Test acc: 0.3478, test loss: 1.9210, round time: 405.7995343208313 sec
+
+Running round: 39 of 40
+Best selected:  tensor([59, 75,  7, 66, 26, 64])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1097.5368347167969 seconds to complete
+GTG-Shapley values:  [-0.000902568764156765, 0.0027922703822453755, 0.006654645072089301, -0.009484676851166619, 0.0025808947616153314, -0.0012475867072741175]
+Server: Test acc: 0.3456, test loss: 1.9135, round time: 1105.0315971374512 sec
+
+Running round: 40 of 40
+Best selected:  tensor([59, 21, 84,  0, 11, 25])
+Selected clients for this round: 6
+GTG-Shapley lasted: 303.42061281204224 seconds to complete
+GTG-Shapley values:  [0.001631602769096666, 0.0022415342430273746, 0.0002932955821355147, -0.00018676457305751015, 0.005393865580360091, -0.00025679965813954486]
+Server: Test acc: 0.3454, test loss: 1.9383, round time: 311.55675172805786 sec
+
+Running round: 41 of 60
+Best selected:  tensor([59, 29, 35, 52, 76, 14])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1220.7338502407074 seconds to complete
+GTG-Shapley values:  [0.0035806475745307226, 0.00019024329053030697, -0.0011884683701727042, 0.002117122941546973, -0.0019494584533903242, -0.004180078473356028]
+Server: Test acc: 0.3385, test loss: 1.9409, round time: 1231.7185173034668 sec
+
+Running round: 42 of 60
+Best selected:  tensor([32, 53, 18, 74, 15, 55])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1222.9360008239746 seconds to complete
+GTG-Shapley values:  [-0.00046812464793521974, -4.760924312802527e-05, 0.001499822437763227, 0.0055312398076057335, 0.0019716760847303667, -0.010464282400078228]
+Server: Test acc: 0.3317, test loss: 2.0006, round time: 1231.0317714214325 sec
+
+Running round: 43 of 60
+Best selected:  tensor([53, 12, 61, 21,  4, 24])
+Selected clients for this round: 6
+GTG-Shapley lasted: 1149.4168872833252 seconds to complete
+GTG-Shapley values:  [-1.5775088606205378e-05, 0.0027255388854563883, -0.0019446463420473225, 0.005382175931985353, 0.0049972760951382, -0.009581465282659418]
+Server: Test acc: 0.3381, test loss: 1.9500, round time: 1158.2834198474884 sec
+
+Running round: 44 of 60
+Best selected:  tensor([53, 24, 26, 41, 94,  0])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1239.6120851039886 seconds to complete
+GTG-Shapley values:  [0.004104516638649836, -0.0015489866336186502, 0.0027265172534518974, -0.004864087833298562, 0.003227292729748639, -0.0029442175560527345]
+Server: Test acc: 0.3468, test loss: 1.9225, round time: 1248.9743905067444 sec
+
+Running round: 45 of 60
+Best selected:  tensor([59, 54, 51, 53,  8,  0])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1228.009878396988 seconds to complete
+GTG-Shapley values:  [0.0029257707463370333, -0.00043009446726906443, -6.442993879318313e-05, 0.0005072384741571209, -0.0028409905234972727, -0.004674972262647428]
+Server: Test acc: 0.3422, test loss: 1.9325, round time: 1236.0747094154358 sec
+
+Running round: 46 of 60
+Best selected:  tensor([14,  7, 27, 11, 15, 20])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1220.2910721302032 seconds to complete
+GTG-Shapley values:  [0.0015410782893498923, -0.0035691144731309498, 0.003631669878959666, -0.003125093479951212, 0.004178352819548727, -0.0029432539476288533]
+Server: Test acc: 0.3473, test loss: 1.9262, round time: 1228.6568298339844 sec
+
+Running round: 47 of 60
+Best selected:  tensor([ 0, 25, 23, 26, 12,  6])
+Selected clients for this round: 6
+GTG-Shapley lasted: 286.22848296165466 seconds to complete
+GTG-Shapley values:  [0.001317661149161193, 0.0011202028819492875, 0.0031755011706124884, -0.0009176729690460963, 0.005770294581140751, 0.002583975025585705]
+Server: Test acc: 0.3320, test loss: 1.9728, round time: 295.54448914527893 sec
+
+Running round: 48 of 60
+Best selected:  tensor([25, 16, 14, 20,  9, 29])
+Selected clients for this round: 6
+GTG-Shapley lasted: 663.8863387107849 seconds to complete
+GTG-Shapley values:  [0.0032645401234428217, 0.0011085559303561875, 0.00010914256175360158, 0.001457380130887043, -0.0008077515289187329, 0.0006995694090922641]
+Server: Test acc: 0.3371, test loss: 1.9552, round time: 672.7007670402527 sec
+
+Running round: 49 of 60
+Best selected:  tensor([38, 21, 53,  7, 18,  0])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1270.4251930713654 seconds to complete
+GTG-Shapley values:  [0.006692322426372092, 0.0008267852001719954, -0.00508076432678435, -0.004368223415480728, -0.004347502026293026, 0.0012906259298324568]
+Server: Test acc: 0.3360, test loss: 1.9471, round time: 1278.3656191825867 sec
+
+Running round: 50 of 60
+Best selected:  tensor([ 0, 12, 32, 26, 65,  9])
+Selected clients for this round: 6
+GTG-Shapley lasted: 297.5859258174896 seconds to complete
+GTG-Shapley values:  [-0.00030577920732046575, 0.005458849100839523, 0.0014880482639585096, 0.0025964271454584006, 0.003199760119120297, -0.0005220451525279666]
+Server: Test acc: 0.3278, test loss: 1.9945, round time: 306.07039499282837 sec
+
+Running round: 51 of 60
+Best selected:  tensor([ 9, 15, 98, 87,  5, 93])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1206.1244053840637 seconds to complete
+GTG-Shapley values:  [0.004386718769868212, -8.625719282362443e-06, -0.0055135448773701865, -0.0006958459483252437, 0.004106663796636791, -0.00320160016417502]
+Server: Test acc: 0.3382, test loss: 1.9757, round time: 1215.4772410392761 sec
+
+Running round: 52 of 60
+Best selected:  tensor([ 5,  0, 25, 13, 28, 17])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1249.3017592430115 seconds to complete
+GTG-Shapley values:  [0.00239444537295237, 0.001469157702393008, -0.00959318839841419, 0.0016385383407275004, -0.002571192946698928, 0.005091093248791181]
+Server: Test acc: 0.3345, test loss: 1.9683, round time: 1257.1266839504242 sec
+
+Running round: 53 of 60
+Best selected:  tensor([28, 66, 53, 20, 93,  6])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1247.5112600326538 seconds to complete
+GTG-Shapley values:  [-0.007556090388033126, 0.00012102196613948957, 0.007370255324575633, -0.0029545110132959008, 0.005246377984682726, -0.0013785093360477005]
+Server: Test acc: 0.3516, test loss: 1.9549, round time: 1256.2661409378052 sec
+
+Running round: 54 of 60
+Best selected:  tensor([28, 66, 26, 32,  0,  7])
+Selected clients for this round: 6
+GTG-Shapley lasted: 681.579071521759 seconds to complete
+GTG-Shapley values:  [-0.0011228167141477234, -0.0014724414174755475, 0.00015575333187977056, 0.0022168089946110717, -0.00014633194853862905, 0.0045807108283042975]
+Server: Test acc: 0.3337, test loss: 1.9901, round time: 689.7350685596466 sec
+
+Running round: 55 of 60
+Best selected:  tensor([28, 66, 14, 29, 83, 60])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1245.6738801002502 seconds to complete
+GTG-Shapley values:  [-0.0018920365307066047, 0.0013781433304150884, 0.0040297055244445865, 0.0024918409850862426, 4.183544052972279e-05, -0.005698540343178646]
+Server: Test acc: 0.3367, test loss: 2.0032, round time: 1254.4525926113129 sec
+
+Running round: 56 of 60
+Best selected:  tensor([29, 58, 28, 12,  8, 68])
+Selected clients for this round: 6
+GTG-Shapley lasted: 471.9174199104309 seconds to complete
+GTG-Shapley values:  [-0.004729436021862615, 0.0020683110663385147, 0.005357859441728289, 0.006273915641235553, 0.0001093423727786587, -0.004157449530832705]
+Server: Test acc: 0.3343, test loss: 2.0152, round time: 479.9509093761444 sec
+
+Running round: 57 of 60
+Best selected:  tensor([29, 28, 86,  9, 34, 21])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1115.7460803985596 seconds to complete
+GTG-Shapley values:  [0.003275675541824773, -0.0005638340777820749, -0.002128972113132473, 0.0009238018261061887, 7.554299301573766e-05, -0.004822246134281146]
+Server: Test acc: 0.3285, test loss: 2.0257, round time: 1123.7370529174805 sec
+
+Running round: 58 of 60
+Best selected:  tensor([29, 17,  9, 16, 31, 52])
+Selected clients for this round: 6
+GTG-Shapley lasted: 187.95674920082092 seconds to complete
+GTG-Shapley values:  [0.003935328523317934, -0.0019340580701827869, 0.0001780617237091109, -0.00011084715525312057, 0.00309121270974478, 0.004843521515528382]
+Server: Test acc: 0.3310, test loss: 2.0075, round time: 195.66479587554932 sec
+
+Running round: 59 of 60
+Best selected:  tensor([52,  9,  0, 12, 26, 15])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1191.460622549057 seconds to complete
+GTG-Shapley values:  [-0.0006895618968539728, 0.00043605976634555573, 0.004166288574536634, -0.004123319851027608, -0.000912191172440868, -0.0008343984352217859]
+Server: Test acc: 0.3225, test loss: 2.0433, round time: 1199.3867840766907 sec
+
+Running round: 60 of 60
+Best selected:  tensor([12, 20, 23, 66, 55, 31])
+Selected clients for this round: 6
+GTG-Shapley lasted: 274.6115849018097 seconds to complete
+GTG-Shapley values:  [-0.0014922502494993516, 0.0014468007144473817, -0.0014484060662132833, 0.0034901949621382313, 0.0012444765794844867, 0.003570682236126512]
+Server: Test acc: 0.3282, test loss: 2.0723, round time: 283.08713483810425 sec
+
+Running round: 61 of 80
+Best selected:  tensor([66, 29, 25, 10, 53,  7])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1081.8080277442932 seconds to complete
+GTG-Shapley values:  [-0.0030294595658779235, 0.0016223962770567874, 0.0005429874691698114, -0.0015193748142984182, 0.000895449419816327, 0.0012793700562583063]
+Server: Test acc: 0.3309, test loss: 2.0755, round time: 1091.937915802002 sec
+
+Running round: 62 of 80
+Best selected:  tensor([31, 24, 11, 39, 59, 33])
+Selected clients for this round: 6
+GTG-Shapley lasted: 552.1929802894592 seconds to complete
+GTG-Shapley values:  [0.004082676900757699, 0.002073294321695955, 0.00018351276715597496, -0.0006786352396011268, -0.0035313728782865833, 0.0005105482869678037]
+Server: Test acc: 0.3364, test loss: 2.0242, round time: 559.8924353122711 sec
+
+Running round: 63 of 80
+Best selected:  tensor([11,  0, 21,  4,  9, 32])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1114.4366104602814 seconds to complete
+GTG-Shapley values:  [0.009462020231617812, -0.007813580400413933, -0.005942048761579725, 0.004467184676064358, -0.0005864899357159992, -0.002639185620678797]
+Server: Test acc: 0.3379, test loss: 2.0517, round time: 1122.0756828784943 sec
+
+Running round: 64 of 80
+Best selected:  tensor([ 0, 11, 20, 28, 51,  5])
+Selected clients for this round: 6
+GTG-Shapley lasted: 322.5435962677002 seconds to complete
+GTG-Shapley values:  [0.004421912299262154, 0.0025738171957157404, 0.0033481066977536253, 0.0002852721346749266, -0.0025161363460399436, -0.0016890587630095182]
+Server: Test acc: 0.3513, test loss: 1.9655, round time: 330.36458706855774 sec
+
+Running round: 65 of 80
+Best selected:  tensor([ 0, 11, 53, 25, 15, 26])
+Selected clients for this round: 6
+GTG-Shapley lasted: 691.8264715671539 seconds to complete
+GTG-Shapley values:  [0.0026980690788804378, -0.0015459821935285747, 0.003194246428054655, -0.0001919566016448187, 0.0007823409741384758, -0.0025481181709390162]
+Server: Test acc: 0.3408, test loss: 2.0276, round time: 699.3346447944641 sec
+
+Running round: 66 of 80
+Best selected:  tensor([ 0, 12, 17, 15, 66, 14])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1098.762302160263 seconds to complete
+GTG-Shapley values:  [-5.6926475630877033e-05, -0.005231022569868307, 0.0007799414793650054, 0.0003870684239599292, 1.5301985873107582e-05, 0.00016698418392073095]
+Server: Test acc: 0.3435, test loss: 2.0100, round time: 1106.159453868866 sec
+
+Running round: 67 of 80
+Best selected:  tensor([ 0, 60, 24, 21, 42, 29])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1073.6530680656433 seconds to complete
+GTG-Shapley values:  [0.002360503243075475, -0.0011654303471247394, 0.003598149087693963, -0.004916667143503815, -0.003943229880597847, 0.003560305039087952]
+Server: Test acc: 0.3476, test loss: 1.9907, round time: 1081.4271671772003 sec
+
+Running round: 68 of 80
+Best selected:  tensor([ 0, 60, 24, 22,  5, 18])
+Selected clients for this round: 6
+GTG-Shapley lasted: 860.8045208454132 seconds to complete
+GTG-Shapley values:  [0.001665363212426488, -0.0008566565397712864, -0.005821155963672556, 0.00014376756217743567, 0.002855830887953433, 0.003453344396418998]
+Server: Test acc: 0.3537, test loss: 1.9503, round time: 868.4276907444 sec
+
+Running round: 69 of 80
+Best selected:  tensor([ 0, 60, 24, 94, 11, 20])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1087.5217306613922 seconds to complete
+GTG-Shapley values:  [-0.0016118193003866576, 0.0011804915136761065, -0.0014222195413377782, 0.0024059795671038933, 0.000995052523083139, -0.000476755731635628]
+Server: Test acc: 0.3585, test loss: 1.9739, round time: 1094.9696457386017 sec
+
+Running round: 70 of 80
+Best selected:  tensor([ 0, 15, 45, 24, 10, 87])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1077.2764809131622 seconds to complete
+GTG-Shapley values:  [-0.002900722788439843, 0.0013571468326780633, 0.0012038309044308142, 0.0001866742637422465, 0.0022246859471003267, -0.0014688291814592093]
+Server: Test acc: 0.3526, test loss: 1.9880, round time: 1085.4512083530426 sec
+
+Running round: 71 of 80
+Best selected:  tensor([59, 26, 15, 25, 27, 31])
+Selected clients for this round: 6
+GTG-Shapley lasted: 772.1830358505249 seconds to complete
+GTG-Shapley values:  [0.00019575541927701367, 0.0047172146184104, -0.0003930431509774681, 0.0006212276598764025, -0.0008352457530914593, -0.0012639689540106004]
+Server: Test acc: 0.3403, test loss: 2.0141, round time: 779.3794276714325 sec
+
+Running round: 72 of 80
+Best selected:  tensor([25,  0,  7, 36, 11, 14])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1101.805688381195 seconds to complete
+GTG-Shapley values:  [-0.002812731580601788, -0.0006993456019295312, 0.00044283588727315917, 0.0006274064713054421, 0.0041663405630323795, -0.0005514963302347181]
+Server: Test acc: 0.3500, test loss: 2.0221, round time: 1109.4678206443787 sec
+
+Running round: 73 of 80
+Best selected:  tensor([25, 21, 53, 19, 15, 66])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1087.3079075813293 seconds to complete
+GTG-Shapley values:  [-0.00028986851374309536, 0.0006405177878008984, -0.002882414062817891, 0.0018904028832912368, 0.0009105356699890467, 0.0005685352120134463]
+Server: Test acc: 0.3345, test loss: 2.0738, round time: 1094.8632290363312 sec
+
+Running round: 74 of 80
+Best selected:  tensor([25, 17, 52, 60, 16, 38])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1098.2271428108215 seconds to complete
+GTG-Shapley values:  [0.000982578761047786, 0.0022881335682339134, 0.0027992535299725123, -0.003715873824225524, -0.003134258025222346, 0.0023335299061404426]
+Server: Test acc: 0.3415, test loss: 2.0672, round time: 1106.1671364307404 sec
+
+Running round: 75 of 80
+Best selected:  tensor([25, 93, 55, 45, 17, 23])
+Selected clients for this round: 6
+GTG-Shapley lasted: 633.1862082481384 seconds to complete
+GTG-Shapley values:  [-0.0015141499977485923, 0.0019410318019343082, 5.6775527841898924e-05, 0.0003660240009719149, -0.001049339537527065, 0.0029415605991494325]
+Server: Test acc: 0.3503, test loss: 2.0180, round time: 641.1252315044403 sec
+
+Running round: 76 of 80
+Best selected:  tensor([25, 93, 24, 26, 28, 60])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1109.3527445793152 seconds to complete
+GTG-Shapley values:  [0.0002760930524932043, -0.0002060350941287172, -0.003497526993354162, -0.0046395146681202735, -0.0002507167392306794, 0.002420730623933995]
+Server: Test acc: 0.3496, test loss: 1.9823, round time: 1117.0099890232086 sec
+
+Running round: 77 of 80
+Best selected:  tensor([ 0, 53, 93,  6, 15, 11])
+Selected clients for this round: 6
+GTG-Shapley lasted: 586.3838942050934 seconds to complete
+GTG-Shapley values:  [-0.001503420869509384, -0.000826398531595877, 0.001160663242141392, 0.0010344017917911068, 0.00021091072509684763, 0.00450712793196239]
+Server: Test acc: 0.3433, test loss: 2.0634, round time: 594.2927279472351 sec
+
+Running round: 78 of 80
+Best selected:  tensor([93, 84, 25, 10, 58, 20])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1101.7516708374023 seconds to complete
+GTG-Shapley values:  [0.00039019829697080544, -0.0013651557266712102, -0.0017619501882129016, -0.0051999243100483905, 0.0013645039333237566, 0.002360377891196162]
+Server: Test acc: 0.3469, test loss: 2.0141, round time: 1109.2457904815674 sec
+
+Running round: 79 of 80
+Best selected:  tensor([93, 99, 14, 15,  7, 23])
+Selected clients for this round: 6
+GTG-Shapley lasted: 396.66441583633423 seconds to complete
+GTG-Shapley values:  [-0.0037117011619336787, 0.0008026980089418615, 0.0009928974238309041, 0.0028408509312253956, 0.0026049637433254304, -2.3736104820725963e-05]
+Server: Test acc: 0.3391, test loss: 2.0647, round time: 404.38550424575806 sec
+
+Running round: 80 of 80
+Best selected:  tensor([93, 23, 79, 11,  9, 66])
+Selected clients for this round: 6
+GTG-Shapley lasted: 1087.4806480407715 seconds to complete
+GTG-Shapley values:  [-0.004771805837236593, 6.333284679501274e-05, -0.0001423765873086839, 0.0023520905738589615, -0.00017041139218998533, 0.004182103276252752]
+Server: Test acc: 0.3339, test loss: 2.0786, round time: 1094.9512822628021 sec
+
+Running round: 81 of 100
+Best selected:  tensor([93, 34, 15, 32,  0, 53])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1178.1546156406403 seconds to complete
+GTG-Shapley values:  [-0.010749194754494564, 0.003518231312433883, -0.004103610350026018, 0.0044146353668636715, 0.002058498180574834, -0.0022299238542715667]
+Server: Test acc: 0.3405, test loss: 2.0594, round time: 1189.4616079330444 sec
+
+Running round: 82 of 100
+Best selected:  tensor([34, 15, 66, 16, 43, 21])
+Selected clients for this round: 6
+GTG-Shapley lasted: 200.4534285068512 seconds to complete
+GTG-Shapley values:  [0.0032358398040135553, 0.0036108533541361347, 0.003908822337786341, 0.001059738596280398, 0.003304361104965185, -0.0006573285659154419]
+Server: Test acc: 0.3365, test loss: 2.0228, round time: 208.85475063323975 sec
+
+Running round: 83 of 100
+Best selected:  tensor([43, 16, 15, 34, 21, 29])
+Selected clients for this round: 6
+GTG-Shapley lasted: 359.4694936275482 seconds to complete
+GTG-Shapley values:  [0.0017548393320154006, 0.0006459054019716001, -0.0006924502275608188, 0.0024839759976775337, -0.0015547838475969144, 0.001419738486961049]
+Server: Test acc: 0.3330, test loss: 2.0620, round time: 367.59608221054077 sec
+
+Running round: 84 of 100
+Best selected:  tensor([15, 22, 53, 29, 59, 24])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1189.028671503067 seconds to complete
+GTG-Shapley values:  [0.0013467436532179696, 0.004635973638958416, -0.00034715389211971166, -0.003927513725227776, -0.005964739587571867, 0.0034318305717574325]
+Server: Test acc: 0.3372, test loss: 2.0673, round time: 1197.0958082675934 sec
+
+Running round: 85 of 100
+Best selected:  tensor([22, 59, 15, 27, 12, 93])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1165.3040318489075 seconds to complete
+GTG-Shapley values:  [-0.0048384729027748236, 0.001089845001697539, 0.0034786645240253823, 0.004019632173909085, 0.001777160730626845, -0.007163283858034334]
+Server: Test acc: 0.3255, test loss: 2.0886, round time: 1173.5475912094116 sec
+
+Running round: 86 of 100
+Best selected:  tensor([22, 27, 59, 15,  8, 25])
+Selected clients for this round: 6
+GTG-Shapley values:  [1e-09, 1e-09, 1e-09, 1e-09, 1e-09, 1e-09]
+Server: Test acc: 0.3305, test loss: 2.0506, round time: 10.648682355880737 sec
+
+Running round: 87 of 100
+Best selected:  tensor([22, 14, 40, 16, 54, 31])
+Selected clients for this round: 6
+GTG-Shapley lasted: 356.2551534175873 seconds to complete
+GTG-Shapley values:  [0.008060665373448976, -0.0028705589197300396, -0.0001740497571451028, 0.002621908651457875, -0.0038575514599129062, 0.0024413559171888423]
+Server: Test acc: 0.3277, test loss: 2.1080, round time: 364.32142996788025 sec
+
+Running round: 88 of 100
+Best selected:  tensor([14, 31, 21, 54, 11, 15])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1171.6483399868011 seconds to complete
+GTG-Shapley values:  [0.001203515728314734, 0.00037247253788842645, -0.0031727166308296996, -0.0007225582500298749, -0.0004904213878843397, 0.0005505622923374132]
+Server: Test acc: 0.3360, test loss: 2.0552, round time: 1179.730788230896 sec
+
+Running round: 89 of 100
+Best selected:  tensor([14, 94, 43, 20, 25, 90])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1057.7331562042236 seconds to complete
+GTG-Shapley values:  [0.0032244036926163556, 0.00648791276746326, -0.004502468042903477, 0.004179605576727138, -0.006416415075461062, -0.003741479681597833]
+Server: Test acc: 0.3203, test loss: 2.1142, round time: 1065.315619468689 sec
+
+Running round: 90 of 100
+Best selected:  tensor([43, 14, 20, 17, 75, 23])
+Selected clients for this round: 6
+GTG-Shapley lasted: 718.1832213401794 seconds to complete
+GTG-Shapley values:  [0.0011650341997544208, 0.004878754963477466, 0.002677740628520655, -0.002449091772238408, 0.0005005173385143465, -0.002324791649977348]
+Server: Test acc: 0.3310, test loss: 2.0549, round time: 725.6020555496216 sec
+
+Running round: 91 of 100
+Best selected:  tensor([20, 14, 17, 27,  6, 11])
+Selected clients for this round: 6
+GTG-Shapley lasted: 1075.5570304393768 seconds to complete
+GTG-Shapley values:  [0.0001927388542228245, 0.00045070558786391497, -0.00048466237054931434, 0.0020322763423124912, 0.00023499449094137746, -0.0006422984434498598]
+Server: Test acc: 0.3320, test loss: 2.1204, round time: 1083.2623863220215 sec
+
+Running round: 92 of 100
+Best selected:  tensor([17, 20, 14, 43,  5, 10])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1065.706794500351 seconds to complete
+GTG-Shapley values:  [-0.01216826617717745, -0.00531296031342612, 0.0013659758369127758, 0.003671296934286747, 0.0012684241268369793, 0.003878870672649799]
+Server: Test acc: 0.3245, test loss: 2.1145, round time: 1073.188008069992 sec
+
+Running round: 93 of 100
+Best selected:  tensor([17, 43, 20, 14, 60, 59])
+Selected clients for this round: 6
+GTG-Shapley lasted: 323.371155500412 seconds to complete
+GTG-Shapley values:  [-0.000594372219509552, 0.004079633178534305, 0.001190787443408244, 0.0036135730920014535, -0.0019016266972930603, -0.0009914457798004285]
+Server: Test acc: 0.3304, test loss: 2.1038, round time: 331.1467640399933 sec
+
+Running round: 94 of 100
+Best selected:  tensor([43, 17, 20, 76, 26, 66])
+Selected clients for this round: 6
+GTG-Shapley lasted: 476.4296805858612 seconds to complete
+GTG-Shapley values:  [0.0006931227369186036, 0.0014450460672378663, -0.0009916963867652058, 0.0003130372518148257, -0.0011590415086501678, 0.0032219750758929]
+Server: Test acc: 0.3295, test loss: 2.0885, round time: 483.8821494579315 sec
+
+Running round: 95 of 100
+Best selected:  tensor([17, 76, 43, 20, 21, 22])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1126.5868849754333 seconds to complete
+GTG-Shapley values:  [0.0001869187421268883, -0.001386631495422795, -0.0018784769872824418, 0.0019231254359086262, -0.0009142608278327555, 0.002825052655405444]
+Server: Test acc: 0.3283, test loss: 2.0910, round time: 1134.5667011737823 sec
+
+Running round: 96 of 100
+Best selected:  tensor([76, 17, 84, 24, 15, 22])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1085.3694763183594 seconds to complete
+GTG-Shapley values:  [-0.0006618570950295993, -0.00014287875758275647, 0.0006915828585624882, -0.0015939624607562881, 0.00022401733530892366, 0.0005346776213911044]
+Server: Test acc: 0.3376, test loss: 2.0428, round time: 1092.7057344913483 sec
+
+Running round: 97 of 100
+Best selected:  tensor([17, 11, 14, 50, 35, 45])
+Selected clients for this round: 6
+GTG-Shapley values:  [1e-09, 1e-09, 1e-09, 1e-09, 1e-09, 1e-09]
+Server: Test acc: 0.3331, test loss: 2.0767, round time: 9.552227258682251 sec
+
+Running round: 98 of 100
+Best selected:  tensor([ 7, 87, 76, 15,  8, 17])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1097.2282733917236 seconds to complete
+GTG-Shapley values:  [0.0017068686087926518, -0.006722408168845699, 0.0002698480586210991, -0.0001238364643520622, 0.002085296743445938, -0.0034986945655610738]
+Server: Test acc: 0.3330, test loss: 2.0416, round time: 1104.9530460834503 sec
+
+Running round: 99 of 100
+Best selected:  tensor([76,  7,  6, 31, 30, 20])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1141.8338849544525 seconds to complete
+GTG-Shapley values:  [-0.0008246625297599255, -0.0002389252185821348, 0.0012117765016026148, -0.008278639598025203, 0.00172200982769333, 0.003937805079751552]
+Server: Test acc: 0.3260, test loss: 2.0873, round time: 1149.4616107940674 sec
+
+Running round: 100 of 100
+Best selected:  tensor([76, 33, 29,  0, 15, 11])
+Selected clients for this round: 6
+not converged in SV GTG
+GTG-Shapley lasted: 1110.5227272510529 seconds to complete
+GTG-Shapley values:  [-0.008584801786475678, 0.009096730715698656, 0.0015280156334241217, -0.0007514446808232029, -0.005609077596002145, 0.00307387610276541]
+Server: Test acc: 0.3338, test loss: 2.0767, round time: 1118.3526728153229 sec
+
