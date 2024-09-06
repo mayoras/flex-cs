@@ -1,0 +1,4002 @@
+
+Running round: 1 - Time elapsed: 0.0 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 180
+Current T round: 180.0
+Max T round: 180.0
+Min T round: 180.0
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.16433709409141026
+Time upload: 0.32867418818282046
+Time upload: 0.49301128227423063
+Time upload: 0.6244809575473588
+Time upload: 0.7230832140022049
+Time upload: 0.788818051638769
+Time upload: 0.80525176104791
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 32.000000000000185/32.02145659109234 [00:32<00:00,  1.02s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 125.13786172866821 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.1000, test loss: 2.4217, round time: 162.29970049858093
+
+Running round: 2 - Time elapsed: 162.299702167511 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 180.0
+Current T round: 184.9055141869709
+Max T round: 184.9055141869709
+Min T round: 180.0
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 29.800000000000153/29.837228305003986 [00:30<00:00,  1.02s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 150.95886063575745 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.1000, test loss: 3.8659, round time: 184.1879632472992
+
+Running round: 3 - Time elapsed: 346.4891550540924 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 184.9055141869709
+Current T round: 182.1650784703827
+Max T round: 184.9055141869709
+Min T round: 180.0
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 35.00000000000023/35.06094883355143 [00:35<00:00,  1.02s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 132.0020034313202 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.1393, test loss: 2.8501, round time: 170.54747438430786
+
+Running round: 4 - Time elapsed: 517.0381209850311 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 182.1650784703827
+Current T round: 178.43657006365544
+Max T round: 184.9055141869709
+Min T round: 178.43657006365544
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 34.60000000000022/34.632434986900584 [00:35<00:00,  1.02s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 135.73900628089905 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.1295, test loss: 4.0476, round time: 173.81650757789612
+
+Running round: 5 - Time elapsed: 690.856219291687 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 178.43657006365544
+Current T round: 179.08002153719679
+Max T round: 184.9055141869709
+Min T round: 178.43657006365544
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 33.60000000000021/33.638644078605815 [00:34<00:00,  1.02s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 135.13400864601135 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.1257, test loss: 3.4276, round time: 172.2429850101471
+
+Running round: 6 - Time elapsed: 863.1007287502289 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 179.08002153719679
+Current T round: 182.60957446890265
+Max T round: 184.9055141869709
+Min T round: 178.43657006365544
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 2
+Time upload: 0
+Time upload: 0.16973307193843554
+Time upload: 0.339466143876871
+Time upload: 0.5091992158153065
+Time upload: 0.6796325475713332
+Time upload: 0.8511162690537459
+Time upload: 1.0059768132511104
+Time upload: 1.1611874873572703
+Time upload: 1.2821014171669476
+Time upload: 1.385691909873986
+Time upload: 1.4896325324898196
+Time upload: 1.5762497180030144
+Time upload: 1.6455434664135702
+Time upload: 1.697513777721487
+Selected data length (|D_UL|): 307200
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 34.00000000000021/34.051028738481705 [00:34<00:00,  1.02s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 133.86685848236084 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.2068, test loss: 2.4956, round time: 172.36519527435303
+
+Running round: 7 - Time elapsed: 1035.4675991535187 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 182.60957446890265
+Current T round: 182.1691951795988
+Max T round: 184.9055141869709
+Min T round: 178.43657006365544
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.1820899108798486
+Time upload: 0.3641798217596971
+Time upload: 0.5462697326395457
+Time upload: 0.6919416613434249
+Time upload: 0.8011956078713344
+Time upload: 0.8558225811352891
+Time upload: 0.8922405633112589
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 34.50000000000022/34.57452112673047 [00:35<00:00,  1.02s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 124.60144281387329 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.1915, test loss: 2.8346, round time: 162.93177247047424
+
+Running round: 8 - Time elapsed: 1198.4008202552795 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 182.1691951795988
+Current T round: 179.62169495179137
+Max T round: 184.9055141869709
+Min T round: 178.43657006365544
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.19262672502027814
+Time upload: 0.3852534500405561
+Time upload: 0.5778801750608342
+Time upload: 0.731981555077057
+Time upload: 0.8282949175871962
+Time upload: 0.8860829350932797
+Time upload: 0.9246082800973354
+Time upload: 0.9438709525993633
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 30.90000000000017/30.923796581378735 [00:31<00:00,  1.02s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 155.47729802131653 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.2474, test loss: 2.4668, round time: 190.26400995254517
+
+Running round: 9 - Time elapsed: 1388.666314125061 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 179.62169495179137
+Current T round: 184.55658637200565
+Max T round: 184.9055141869709
+Min T round: 178.43657006365544
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 33.400000000000205/33.425174241547055 [00:33<00:00,  1.02s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 127.15128374099731 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.1550, test loss: 3.3789, round time: 164.04322004318237
+
+Running round: 10 - Time elapsed: 1552.7110760211945 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 184.55658637200565
+Current T round: 178.7589465076817
+Max T round: 184.9055141869709
+Min T round: 178.43657006365544
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.20983066092127797
+Time upload: 0.39867825575042815
+Time upload: 0.5665427844874503
+Time upload: 0.7344073132244723
+Time upload: 0.8603057097772387
+Time upload: 0.9442379741457497
+Time upload: 1.007187172422133
+Time upload: 1.0281702385142608
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 32.30000000000019/32.36019035180386 [00:32<00:00,  1.02s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 127.86412858963013 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.2076, test loss: 3.0108, round time: 164.1882405281067
+
+Running round: 11 - Time elapsed: 1716.9010927677155 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 178.7589465076817
+Current T round: 186.8792542888696
+Max T round: 186.8792542888696
+Min T round: 178.43657006365544
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 30.500000000000163/30.50064231351444 [00:31<00:00,  1.02s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 147.87492775917053 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.2230, test loss: 3.0046, round time: 181.79501247406006
+
+Running round: 12 - Time elapsed: 1898.6975421905518 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 186.8792542888696
+Current T round: 178.0315708809657
+Max T round: 186.8792542888696
+Min T round: 178.0315708809657
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.19640977643126908
+Time upload: 0.39281955286253806
+Time upload: 0.589229329293807
+Time upload: 0.7463571504388221
+Time upload: 0.8642030162975834
+Time upload: 0.9231259492269641
+Time upload: 0.9624079045132179
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 33.70000000000021/33.73466539884076 [00:34<00:00,  1.02s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 136.36255359649658 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.2907, test loss: 2.4465, round time: 173.88690614700317
+
+Running round: 13 - Time elapsed: 2072.585876226425 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 178.0315708809657
+Current T round: 178.16129578473573
+Max T round: 186.8792542888696
+Min T round: 178.0315708809657
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.18667669683925794
+Time upload: 0.37335339367851594
+Time upload: 0.541362420833848
+Time upload: 0.6720361086213282
+Time upload: 0.765374457040957
+Time upload: 0.8587128054605857
+Time upload: 0.8960481448284372
+Time upload: 0.914715814512363
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 33.80000000000021/33.884567505420435 [00:34<00:00,  1.02s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 152.3523337841034 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.2541, test loss: 2.6826, round time: 189.99021649360657
+
+Running round: 14 - Time elapsed: 2262.577513217926 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 178.16129578473573
+Current T round: 180.56790643903292
+Max T round: 186.8792542888696
+Min T round: 178.0315708809657
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.1698338674293138
+Time upload: 0.33966773485862756
+Time upload: 0.5095016022879413
+Time upload: 0.6453686962313927
+Time upload: 0.7472690166889813
+Time upload: 0.7982191769177756
+Time upload: 0.8321859504036384
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 34.00000000000021/34.08151874514004 [00:34<00:00,  1.02s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 129.33199501037598 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.2092, test loss: 2.9761, round time: 167.17426562309265
+
+Running round: 15 - Time elapsed: 2429.753383398056 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 180.56790643903292
+Current T round: 181.61692664146122
+Max T round: 186.8792542888696
+Min T round: 178.0315708809657
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.17706516678639309
+Time upload: 0.3364238168941469
+Time upload: 0.47807595032326144
+Time upload: 0.619728083752376
+Time upload: 0.7259671838242119
+Time upload: 0.7967932505387691
+Time upload: 0.8499128005746871
+Time upload: 0.8676193172533264
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 31.100000000000172/31.18140298741922 [00:31<00:00,  1.02s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 156.14426040649414 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.2335, test loss: 3.0769, round time: 191.17153596878052
+
+Running round: 16 - Time elapsed: 2620.9265892505646 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 181.61692664146122
+Current T round: 183.92587354916694
+Max T round: 186.8792542888696
+Min T round: 178.0315708809657
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 2
+Time upload: 0
+Time upload: 0.166659224661154
+Time upload: 0.3333184493223081
+Time upload: 0.4999776739834623
+Time upload: 0.6674698136227276
+Time upload: 0.8366277832182152
+Time upload: 1.009117412726147
+Time upload: 1.1832728721903003
+Time upload: 1.3407624091883381
+Time upload: 1.463254271297923
+Time upload: 1.5507484585190552
+Time upload: 1.6382426457401873
+Time upload: 1.6732403206286401
+Time upload: 1.6907391580728666
+Selected data length (|D_UL|): 307200
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 37.20000000000026/37.2783048642353 [00:37<00:00,  1.02s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 130.73855257034302 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.2314, test loss: 3.1230, round time: 172.5602810382843
+
+Running round: 17 - Time elapsed: 2793.4886009693146 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 183.92587354916694
+Current T round: 178.74508420271601
+Max T round: 186.8792542888696
+Min T round: 178.0315708809657
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 34.40000000000022/34.46708134285137 [00:34<00:00,  1.02s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 120.81547379493713 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.2478, test loss: 3.0546, round time: 158.637681722641
+
+Running round: 18 - Time elapsed: 2952.1279516220093 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 178.74508420271601
+Current T round: 182.2978524879433
+Max T round: 186.8792542888696
+Min T round: 178.0315708809657
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 31.60000000000018/31.613006216429305 [00:32<00:00,  1.02s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 148.12569952011108 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.2838, test loss: 2.7997, round time: 183.1158366203308
+
+Running round: 19 - Time elapsed: 3135.245191335678 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 182.2978524879433
+Current T round: 181.50248125761004
+Max T round: 186.8792542888696
+Min T round: 178.0315708809657
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.15932399846433495
+Time upload: 0.31864799692867
+Time upload: 0.4779719953930052
+Time upload: 0.605431194164473
+Time upload: 0.7010255932430738
+Time upload: 0.7488227927823742
+Time upload: 0.7806875924752411
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 30.700000000000166/30.792356817150765 [00:31<00:00,  1.02s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 150.39592170715332 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.3162, test loss: 2.7516, round time: 184.90626406669617
+
+Running round: 20 - Time elapsed: 3320.1529479026794 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 181.50248125761004
+Current T round: 180.0275980868535
+Max T round: 186.8792542888696
+Min T round: 178.0315708809657
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 32.100000000000186/32.11503624360576 [00:32<00:00,  1.02s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 131.44428825378418 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.3108, test loss: 2.5196, round time: 166.94092345237732
+
+Running round: 21 - Time elapsed: 3487.0954308509827 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 180.0275980868535
+Current T round: 182.22159028997962
+Max T round: 186.8792542888696
+Min T round: 178.0315708809657
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 2
+Time upload: 0
+Time upload: 0.18221785884113087
+Time upload: 0.36806304029698367
+Time upload: 0.5539082217528364
+Time upload: 0.7397534032086888
+Time upload: 0.9364805525087068
+Time upload: 1.1222405611540553
+Time upload: 1.3080005697994037
+Time upload: 1.4791661151753606
+Time upload: 1.653958983166039
+Time upload: 1.7632045256602131
+Time upload: 1.8506009596555524
+Time upload: 1.9161482851520568
+Time upload: 1.9816956106485613
+Selected data length (|D_UL|): 307200
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 32.20000000000019/32.25367716826707 [00:32<00:00,  1.02s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 149.00392365455627 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.2720, test loss: 2.5863, round time: 185.8198561668396
+
+Running round: 22 - Time elapsed: 3672.9171376228333 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 182.22159028997962
+Current T round: 179.94304942577938
+Max T round: 186.8792542888696
+Min T round: 178.0315708809657
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 31.800000000000182/31.873004070515815 [00:32<00:00,  1.02s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 146.50423526763916 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.2931, test loss: 2.6496, round time: 181.7328131198883
+
+Running round: 23 - Time elapsed: 3854.651375055313 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 179.94304942577938
+Current T round: 181.77664773427014
+Max T round: 186.8792542888696
+Min T round: 178.0315708809657
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.1655814723743375
+Time upload: 0.3146047975112414
+Time upload: 0.4470699754107115
+Time upload: 0.5795351533101816
+Time upload: 0.6788840367347841
+Time upload: 0.7451166256845192
+Time upload: 0.7947910673968205
+Time upload: 0.8113492146342542
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 31.900000000000183/31.924791723360446 [00:32<00:00,  1.02s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 128.23229002952576 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.3242, test loss: 2.5444, round time: 164.03907227516174
+
+Running round: 24 - Time elapsed: 4018.6920688152313 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 181.77664773427014
+Current T round: 183.15698261516144
+Max T round: 186.8792542888696
+Min T round: 178.0315708809657
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 5
+Time upload: 0
+Time upload: 0.16876092871365847
+Time upload: 0.33752185742731683
+Time upload: 0.5062827861409751
+Time upload: 0.67939715306499
+Time upload: 0.8568649581993617
+Time upload: 1.0416100056802409
+Time upload: 1.2285317722662976
+Time upload: 1.4183773429885052
+Time upload: 1.6113764141037983
+Time upload: 1.805122570250064
+Time upload: 2.0003628964582747
+Time upload: 2.1973270889853653
+Selected data length (|D_UL|): 380928
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 32.9000000000002/32.94209231140063 [00:33<00:00,  1.02s/it]   
+Scheduled model update and upload...
+Scheduled model update and upload time: 129.06090807914734 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.3518, test loss: 2.1634, round time: 167.65866446495056
+
+Running round: 25 - Time elapsed: 4186.3521111011505 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 183.15698261516144
+Current T round: 184.08301244325312
+Max T round: 186.8792542888696
+Min T round: 178.0315708809657
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 30.800000000000168/30.876754273302605 [00:31<00:00,  1.02s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 125.41414332389832 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.2794, test loss: 3.3389, round time: 159.64384126663208
+
+Running round: 26 - Time elapsed: 4345.9975435733795 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 184.08301244325312
+Current T round: 184.14525180456445
+Max T round: 186.8792542888696
+Min T round: 178.0315708809657
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.1628757001825773
+Time upload: 0.3257514003651547
+Time upload: 0.4886271005477323
+Time upload: 0.6189276606937943
+Time upload: 0.7166530808033409
+Time upload: 0.7655157908581142
+Time upload: 0.7980909308946297
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 35.30000000000023/35.38948101344659 [00:35<00:00,  1.02s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 126.12921500205994 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.2978, test loss: 2.6992, round time: 165.35804319381714
+
+Running round: 27 - Time elapsed: 4511.356974840164 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 184.14525180456445
+Current T round: 183.41361212261847
+Max T round: 186.8792542888696
+Min T round: 178.0315708809657
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 34.100000000000215/34.13421322924265 [00:34<00:00,  1.02s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 133.38748836517334 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.2952, test loss: 2.6016, round time: 170.9161012172699
+
+Running round: 28 - Time elapsed: 4682.274799108505 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 183.41361212261847
+Current T round: 183.42303665075934
+Max T round: 186.8792542888696
+Min T round: 178.0315708809657
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.18514457603710457
+Time upload: 0.3517746944704987
+Time upload: 0.49989035530018233
+Time upload: 0.6480060161298664
+Time upload: 0.7590927617521295
+Time upload: 0.8331505921669715
+Time upload: 0.888693964978103
+Time upload: 0.9072084225818136
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 33.400000000000205/33.46026806451895 [00:33<00:00,  1.02s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 133.12088179588318 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.3339, test loss: 2.3732, round time: 170.42587041854858
+
+Running round: 29 - Time elapsed: 4852.70227766037 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 183.42303665075934
+Current T round: 177.39508854255152
+Max T round: 186.8792542888696
+Min T round: 177.39508854255152
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 2
+Time upload: 0
+Time upload: 0.17872463991756413
+Time upload: 0.35890949362231755
+Time upload: 0.5405545611142604
+Time upload: 0.7251200561805822
+Time upload: 0.909685551246904
+Time upload: 1.0778387961086586
+Time upload: 1.2459920409704133
+Time upload: 1.378400357848655
+Time upload: 1.4736035329561945
+Time upload: 1.5702669218509233
+Time upload: 1.6669303107456521
+Time upload: 1.7442610218614352
+Time upload: 1.7829263774193267
+Time upload: 1.8022590551982725
+Time upload: 1.8215917329772182
+Time upload: 1.840924410756164
+Selected data length (|D_UL|): 307200
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 33.3000000000002/33.37457729436847 [00:33<00:00,  1.02s/it]   
+Scheduled model update and upload...
+Scheduled model update and upload time: 127.73814272880554 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.3547, test loss: 2.2610, round time: 165.77193808555603
+
+Running round: 30 - Time elapsed: 5018.475619316101 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 177.39508854255152
+Current T round: 180.1934908343769
+Max T round: 186.8792542888696
+Min T round: 177.39508854255152
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 2
+Time upload: 0
+Time upload: 0.16845515471953978
+Time upload: 0.3385502623718075
+Time upload: 0.5086453700240752
+Time upload: 0.6820203835417993
+Time upload: 0.8553953970595234
+Time upload: 1.0353302223081595
+Time upload: 1.2169050004895237
+Time upload: 1.3430233734568418
+Time upload: 1.4522962309522058
+Time upload: 1.526238104570934
+Time upload: 1.58169450978498
+Time upload: 1.637150914999026
+Time upload: 1.692607320213072
+Time upload: 1.729578257022436
+Time upload: 1.748063725427118
+Selected data length (|D_UL|): 307200
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 32.700000000000195/32.7378923008508 [00:33<00:00,  1.02s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 124.27588391304016 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.3648, test loss: 2.1341, round time: 161.614972114563
+
+Running round: 31 - Time elapsed: 5180.0922935009 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 180.1934908343769
+Current T round: 182.03815291118656
+Max T round: 186.8792542888696
+Min T round: 177.39508854255152
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 2
+Time upload: 0
+Time upload: 0.1630505611947151
+Time upload: 0.3275015041369958
+Time upload: 0.49195244707927666
+Time upload: 0.6592041535166885
+Time upload: 0.8087504220870633
+Time upload: 0.9461927797806631
+Time upload: 1.0850355192218288
+Time upload: 1.2061728207959577
+Time upload: 1.3287105041176521
+Time upload: 1.434943131319875
+Time upload: 1.5234703206550608
+Time upload: 1.6119975099902466
+Time upload: 1.6828192614583952
+Selected data length (|D_UL|): 307200
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 30.20000000000016/30.259096664875763 [00:30<00:00,  1.02s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 146.54360222816467 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.2664, test loss: 3.0737, round time: 181.3810088634491
+
+Running round: 32 - Time elapsed: 5361.474842071533 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 182.03815291118656
+Current T round: 180.8528097426132
+Max T round: 186.8792542888696
+Min T round: 177.39508854255152
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 3
+Time upload: 0
+Time upload: 0.16694231475647772
+Time upload: 0.33508206832176385
+Time upload: 0.5044192606958585
+Time upload: 0.673756453069953
+Time upload: 0.8454885230616646
+Time upload: 1.0196154706709932
+Time upload: 1.1953156371007345
+Time upload: 1.373598571153895
+Time upload: 1.5518815052070554
+Time upload: 1.7317376580806285
+Time upload: 1.8937021406697454
+Time upload: 2.0377749529744063
+Time upload: 2.163956094994611
+Time upload: 2.2720576767245575
+Selected data length (|D_UL|): 405504
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 29.300000000000146/29.32364949805402 [00:29<00:00,  1.02s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 146.02337336540222 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.2890, test loss: 3.0745, round time: 180.48922657966614
+
+Running round: 33 - Time elapsed: 5541.965676546097 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 180.8528097426132
+Current T round: 181.86529282184728
+Max T round: 186.8792542888696
+Min T round: 177.39508854255152
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 2
+Time upload: 0
+Time upload: 0.1558231463234651
+Time upload: 0.3116462926469302
+Time upload: 0.46746943897039517
+Time upload: 0.6240083731070462
+Time upload: 0.7812630950568832
+Time upload: 0.9395914987264993
+Time upload: 1.082337587763769
+Time upload: 1.2254415707076318
+Time upload: 1.352963239019148
+Time upload: 1.4326642817138455
+Time upload: 1.480484907330664
+Time upload: 1.512365324408543
+Time upload: 1.5442457414864221
+Time upload: 1.5601859500253616
+Selected data length (|D_UL|): 307200
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 34.40000000000022/34.44414556145801 [00:34<00:00,  1.02s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 123.06682109832764 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4000, test loss: 2.0264, round time: 162.0646800994873
+
+Running round: 34 - Time elapsed: 5704.031823396683 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 181.86529282184728
+Current T round: 180.0783603166998
+Max T round: 186.8792542888696
+Min T round: 177.39508854255152
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.1859486753166728
+Time upload: 0.3718973506333456
+Time upload: 0.5578460259500184
+Time upload: 0.7066049662033567
+Time upload: 0.8181741713933603
+Time upload: 0.8739587739883622
+Time upload: 0.9111485090516968
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 29.800000000000153/29.815223985200944 [00:30<00:00,  1.02s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 142.52362775802612 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.3600, test loss: 2.2911, round time: 176.23910856246948
+
+Running round: 35 - Time elapsed: 5880.272347211838 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 180.0783603166998
+Current T round: 178.4399652586446
+Max T round: 186.8792542888696
+Min T round: 177.39508854255152
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 31.500000000000178/31.57782776316492 [00:32<00:00,  1.02s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 125.8310136795044 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.3046, test loss: 3.0410, round time: 160.77341389656067
+
+Running round: 36 - Time elapsed: 6041.047313690186 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 178.4399652586446
+Current T round: 185.94911968054808
+Max T round: 186.8792542888696
+Min T round: 177.39508854255152
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.17846004270421498
+Time upload: 0.3390740811380084
+Time upload: 0.4818421153013803
+Time upload: 0.6246101494647522
+Time upload: 0.7316861750872812
+Time upload: 0.8030701921689671
+Time upload: 0.8566082049802316
+Time upload: 0.8744542092506531
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 30.700000000000166/30.727974835680605 [00:31<00:00,  1.02s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 157.27001643180847 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.3755, test loss: 2.3476, round time: 191.88758277893066
+
+Running round: 37 - Time elapsed: 6232.936573505402 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 185.94911968054808
+Current T round: 182.4286138521694
+Max T round: 186.8792542888696
+Min T round: 177.39508854255152
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.19197142266389003
+Time upload: 0.36474570306139115
+Time upload: 0.5183228411925033
+Time upload: 0.6335056947908374
+Time upload: 0.7486885483891715
+Time upload: 0.8254771174547276
+Time upload: 0.9022656865202837
+Time upload: 0.9406599710530618
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 34.00000000000021/34.052989098399486 [00:34<00:00,  1.02s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 132.66872024536133 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.3678, test loss: 2.5041, round time: 170.56446313858032
+
+Running round: 38 - Time elapsed: 6403.502443790436 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 182.4286138521694
+Current T round: 175.98659143043855
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.18009596673958098
+Time upload: 0.3601919334791618
+Time upload: 0.5402879002187425
+Time upload: 0.6843646736104071
+Time upload: 0.7924222536541555
+Time upload: 0.8644606403499878
+Time upload: 0.8824702370239459
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 35.10000000000023/35.148647166128384 [00:35<00:00,  1.02s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 132.85228157043457 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.3644, test loss: 2.5792, round time: 171.88361239433289
+
+Running round: 39 - Time elapsed: 6575.388014554977 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 175.98659143043855
+Current T round: 184.86967765756623
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 2
+Time upload: 0
+Time upload: 0.17188993649608955
+Time upload: 0.34672953770064074
+Time upload: 0.5245188036136533
+Time upload: 0.7023080695266656
+Time upload: 0.8658580064985305
+Time upload: 1.0353072728873187
+Time upload: 1.1875675456264982
+Time upload: 1.3457271477826007
+Time upload: 1.5038867499387032
+Time upload: 1.6448573584451966
+Time upload: 1.7455506502355491
+Time upload: 1.8059666253097606
+Time upload: 1.8462439420259016
+Selected data length (|D_UL|): 307200
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 31.800000000000182/31.808738896056525 [00:32<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 146.99813270568848 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.3488, test loss: 2.7446, round time: 183.2420015335083
+
+Running round: 40 - Time elapsed: 6758.63148021698 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 184.86967765756623
+Current T round: 182.29170979087812
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 32.700000000000195/32.754626119472874 [00:33<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 167.3617537021637 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.3237, test loss: 2.7669, round time: 203.58941197395325
+
+Running round: 41 - Time elapsed: 6962.223200559616 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 182.29170979087812
+Current T round: 180.1248941746782
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.20099750769129396
+Time upload: 0.3818952646134585
+Time upload: 0.562793021535623
+Time upload: 0.7436907784577876
+Time upload: 0.864289283072564
+Time upload: 0.9245885353799522
+Time upload: 0.9848877876873404
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 32.800000000000196/32.8085211901662 [00:33<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 124.9066436290741 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.3610, test loss: 2.5134, round time: 161.48054122924805
+
+Running round: 42 - Time elapsed: 7123.707473993301 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 180.1248941746782
+Current T round: 185.9048424970353
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 2
+Time upload: 0
+Time upload: 0.17783847244847154
+Time upload: 0.3556769448969431
+Time upload: 0.5373458549623765
+Time upload: 0.7266756402617335
+Time upload: 0.923666300795014
+Time upload: 1.1206569613282946
+Time upload: 1.307524649850652
+Time upload: 1.4549942062663535
+Time upload: 1.5808494778202458
+Time upload: 1.688920902129291
+Time upload: 1.7537637567147182
+Time upload: 1.7969923264383363
+Time upload: 1.8402208961619544
+Time upload: 1.8834494658855725
+Time upload: 1.9266780356091906
+Selected data length (|D_UL|): 307200
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 35.00000000000023/35.04267824895058 [00:35<00:00,  1.01s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 128.06476545333862 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4233, test loss: 1.8472, round time: 167.70432877540588
+
+Running round: 43 - Time elapsed: 7291.413299560547 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 185.9048424970353
+Current T round: 182.24134129669642
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.15707289992593246
+Time upload: 0.2984385098592717
+Time upload: 0.4240968298000176
+Time upload: 0.5497551497407638
+Time upload: 0.6439988896963236
+Time upload: 0.7068280496666968
+Time upload: 0.7539499196444767
+Time upload: 0.76965720963707
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 30.700000000000166/30.7734323860128 [00:31<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 121.59205794334412 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4347, test loss: 1.9141, round time: 156.04424238204956
+
+Running round: 44 - Time elapsed: 7447.4595079422 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 182.24134129669642
+Current T round: 182.43275912242441
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 2
+Time upload: 0
+Time upload: 0.18069720994313132
+Time upload: 0.3633074244280509
+Time upload: 0.5478306434547586
+Time upload: 0.7323538624814665
+Time upload: 0.9207030905917508
+Time upload: 1.1128783277856114
+Time upload: 1.2869838439851586
+Time upload: 1.4449326437321812
+Time upload: 1.5828987179431024
+Time upload: 1.662829620087508
+Time upload: 1.7427605222319134
+Time upload: 1.8027086988402174
+Time upload: 1.8426741499124202
+Time upload: 1.882639600984623
+Selected data length (|D_UL|): 307200
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 35.10000000000023/35.12820365097157 [00:35<00:00,  1.01s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 130.37120246887207 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.3568, test loss: 2.7410, round time: 170.05648159980774
+
+Running round: 45 - Time elapsed: 7617.517679691315 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 182.43275912242441
+Current T round: 183.53296849070298
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.19891455406550046
+Time upload: 0.3779376527244507
+Time upload: 0.5370692959768508
+Time upload: 0.696200939229251
+Time upload: 0.8155496716685511
+Time upload: 0.8951154932947512
+Time upload: 0.9547898595144012
+Time upload: 0.9746813149209512
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 33.2000000000002/33.26500026687234 [00:33<00:00,  1.01s/it]   
+Scheduled model update and upload...
+Scheduled model update and upload time: 145.98720240592957 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4199, test loss: 2.3018, round time: 182.9832100868225
+
+Running round: 46 - Time elapsed: 7800.502460479736 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 183.53296849070298
+Current T round: 185.6113842988397
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 31.300000000000175/31.351134172227713 [00:31<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 154.6691439151764 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4262, test loss: 2.0903, round time: 189.32828640937805
+
+Running round: 47 - Time elapsed: 7989.83234500885 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 185.6113842988397
+Current T round: 186.4659831774428
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.2190997039072148
+Time upload: 0.41628943742370794
+Time upload: 0.6134791709402013
+Time upload: 0.7668489636752519
+Time upload: 0.9202187564103025
+Time upload: 0.985948667582467
+Time upload: 1.02976860836391
+Time upload: 1.073588549145353
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 34.200000000000216/34.24325714828774 [00:34<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 156.19928002357483 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4066, test loss: 2.2976, round time: 194.26170945167542
+
+Running round: 48 - Time elapsed: 8184.095545291901 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 186.4659831774428
+Current T round: 177.89643527777395
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 2
+Time upload: 0
+Time upload: 0.16587723764929052
+Time upload: 0.3333872580195028
+Time upload: 0.5008972783897151
+Time upload: 0.6684072987599269
+Time upload: 0.8408156672929038
+Time upload: 1.018122383988646
+Time upload: 1.1772085941985373
+Time upload: 1.3213398633644213
+Time upload: 1.4488834087653764
+Time upload: 1.53998594119463
+Time upload: 1.6128679671380328
+Time upload: 1.6857499930814357
+Time upload: 1.7221910060531371
+Selected data length (|D_UL|): 307200
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 32.30000000000019/32.37820962691927 [00:32<00:00,  1.01s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 122.57235789299011 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4310, test loss: 2.0352, round time: 159.2975151538849
+
+Running round: 49 - Time elapsed: 8343.394644498825 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 177.89643527777395
+Current T round: 181.2606605298215
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 2
+Time upload: 0
+Time upload: 0.17354728097219618
+Time upload: 0.34757852343145285
+Time upload: 0.5220937273777702
+Time upload: 0.6966089313240875
+Time upload: 0.8720920582445262
+Time upload: 1.0307044185548058
+Time upload: 1.1898007403521458
+Time upload: 1.3320262955393265
+Time upload: 1.4742518507265072
+Time upload: 1.5991226778164682
+Time upload: 1.688316125737869
+Time upload: 1.7239935049064292
+Time upload: 1.7418321944907094
+Selected data length (|D_UL|): 307200
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 36.00000000000024/36.06221832071184 [00:36<00:00,  1.01s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 128.64028978347778 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.3813, test loss: 2.5319, round time: 169.2734031677246
+
+Running round: 50 - Time elapsed: 8512.669460773468 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 181.2606605298215
+Current T round: 178.3294909828341
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 34.70000000000022/34.738835387849356 [00:35<00:00,  1.01s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 131.5558454990387 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.3376, test loss: 3.2370, round time: 169.65416479110718
+
+Running round: 51 - Time elapsed: 8682.325235366821 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 178.3294909828341
+Current T round: 180.10887682940793
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 33.0000000000002/33.041103277199774 [00:33<00:00,  1.01s/it]   
+Scheduled model update and upload...
+Scheduled model update and upload time: 121.94600820541382 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.3402, test loss: 2.7968, round time: 158.3344602584839
+
+Running round: 52 - Time elapsed: 8840.66132760048 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 180.10887682940793
+Current T round: 177.2096191607691
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 2
+Time upload: 0
+Time upload: 0.1583659952066588
+Time upload: 0.3186700550435283
+Time upload: 0.4809121795106085
+Time upload: 0.6431543039776884
+Time upload: 0.8092725577051894
+Time upload: 0.9792669406931116
+Time upload: 1.1156500600094919
+Time upload: 1.2381346444354167
+Time upload: 1.3606192288613415
+Time upload: 1.4494925496157238
+Time upload: 1.5205912062192297
+Time upload: 1.5739151986718591
+Time upload: 1.609464526973612
+Time upload: 1.645013855275365
+Time upload: 1.6627885194262415
+Selected data length (|D_UL|): 307200
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 30.800000000000168/30.81717921974837 [00:31<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 121.57939529418945 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.3383, test loss: 2.8045, round time: 156.96264958381653
+
+Running round: 53 - Time elapsed: 8997.62549495697 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 177.2096191607691
+Current T round: 180.19351080364265
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.18417844870729452
+Time upload: 0.36835689741458905
+Time upload: 0.5525353461218837
+Time upload: 0.6998781050877197
+Time upload: 0.8103851743120968
+Time upload: 0.8656387089242853
+Time upload: 0.9024743986657443
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 30.100000000000158/30.121401046594055 [00:30<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 119.26215434074402 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.3588, test loss: 3.0018, round time: 153.0281126499176
+
+Running round: 54 - Time elapsed: 9150.65499329567 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 180.19351080364265
+Current T round: 185.4700326324385
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.18958637782511012
+Time upload: 0.37917275565022013
+Time upload: 0.5687591334753304
+Time upload: 0.7393868735179299
+Time upload: 0.8720973379955073
+Time upload: 0.9289732513430404
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 37.10000000000026/37.11475475956968 [00:37<00:00,  1.01s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 133.44721150398254 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4448, test loss: 2.0615, round time: 174.46020770072937
+
+Running round: 55 - Time elapsed: 9325.116935491562 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 185.4700326324385
+Current T round: 180.67366775653628
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.17251719645762775
+Time upload: 0.32778267326949273
+Time upload: 0.46579643043559493
+Time upload: 0.6038101876016971
+Time upload: 0.7073205054762738
+Time upload: 0.7763273840593249
+Time upload: 0.8280825429966132
+Time upload: 0.845334262642376
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 31.400000000000176/31.444107582115187 [00:31<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 123.74946331977844 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4114, test loss: 2.5573, round time: 158.98289132118225
+
+Running round: 56 - Time elapsed: 9484.101200819016 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 180.67366775653628
+Current T round: 183.71419728983875
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.19532587500623275
+Time upload: 0.3711191625118421
+Time upload: 0.5273798625168282
+Time upload: 0.6836405625218143
+Time upload: 0.8008360875255538
+Time upload: 0.8789664375280468
+Time upload: 0.9375642000299166
+Time upload: 0.9570967875305398
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 34.40000000000022/34.451304091058155 [00:34<00:00,  1.02s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 127.5501561164856 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4160, test loss: 2.6004, round time: 165.8339822292328
+
+Running round: 57 - Time elapsed: 9649.936680316925 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 183.71419728983875
+Current T round: 184.48858148587726
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 36.10000000000024/36.18069812982436 [00:36<00:00,  1.02s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 148.01901960372925 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.3407, test loss: 3.3584, round time: 187.47716236114502
+
+Running round: 58 - Time elapsed: 9837.415335178375 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 184.48858148587726
+Current T round: 182.25481454944955
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 31.800000000000182/31.866605095963067 [00:32<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 153.93552923202515 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.3955, test loss: 2.5731, round time: 189.04118490219116
+
+Running round: 59 - Time elapsed: 10026.457929611206 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 182.25481454944955
+Current T round: 183.4407283363792
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 31.300000000000175/31.39945515491046 [00:31<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 170.67446947097778 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4192, test loss: 2.6518, round time: 205.37332701683044
+
+Running round: 60 - Time elapsed: 10231.832878828049 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 183.4407283363792
+Current T round: 180.12776517545964
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 34.800000000000225/34.89251120305475 [00:35<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 132.06131386756897 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4335, test loss: 2.4913, round time: 170.19971823692322
+
+Running round: 61 - Time elapsed: 10402.034160375595 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 180.12776517545964
+Current T round: 181.90918924749897
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 35.40000000000023/35.49085612268174 [00:35<00:00,  1.01s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 130.03983855247498 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.3755, test loss: 2.8679, round time: 168.78373956680298
+
+Running round: 62 - Time elapsed: 10570.819591999054 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 181.90918924749897
+Current T round: 178.51631312302217
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 2
+Time upload: 0
+Time upload: 0.16491178064053258
+Time upload: 0.3319346490630326
+Time upload: 0.5010686052675001
+Time upload: 0.670202561471968
+Time upload: 0.8249564273943502
+Time upload: 0.9839324688806672
+Time upload: 1.126417332302931
+Time upload: 1.2731243712891296
+Time upload: 1.4198314102753282
+Time upload: 1.5500472711974735
+Time upload: 1.6430586004275773
+Time upload: 1.6988653979656396
+Time upload: 1.7360699296576811
+Selected data length (|D_UL|): 307200
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 32.20000000000019/32.21712328929466 [00:32<00:00,  1.02s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 122.94859099388123 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.3523, test loss: 2.7945, round time: 159.52843022346497
+
+Running round: 63 - Time elapsed: 10730.349619865417 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 178.51631312302217
+Current T round: 183.823645363151
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 4
+Time upload: 0
+Time upload: 0.1737601731113204
+Time upload: 0.3475203462226407
+Time upload: 0.521280519333961
+Time upload: 0.6958511152624421
+Time upload: 0.8712321340080841
+Time upload: 1.0474235755708872
+Time upload: 1.2266809867518662
+Time upload: 1.4059383979328453
+Time upload: 1.5893016913072726
+Time upload: 1.7748255904307586
+Time upload: 1.9640501603391125
+Time upload: 2.137033566563564
+Time upload: 2.3100169727880155
+Time upload: 2.4854712551181506
+Selected data length (|D_UL|): 427008
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 30.500000000000163/30.561661390582877 [00:30<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 147.4454927444458 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4079, test loss: 2.6588, round time: 183.4896981716156
+
+Running round: 64 - Time elapsed: 10913.840844869614 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 183.823645363151
+Current T round: 177.3205883450082
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.17074651956143524
+Time upload: 0.3414930391228706
+Time upload: 0.512239558684306
+Time upload: 0.665911426289598
+Time upload: 0.7854339899826028
+Time upload: 0.8366579458510335
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 30.100000000000158/30.193551152628817 [00:30<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 151.89558243751526 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4629, test loss: 1.9129, round time: 185.72975659370422
+
+Running round: 65 - Time elapsed: 11099.572026252747 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 177.3205883450082
+Current T round: 182.24035107797505
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 2
+Time upload: 0
+Time upload: 0.1547624406058367
+Time upload: 0.3126697053533625
+Time upload: 0.47057697010088834
+Time upload: 0.6347738831317922
+Time upload: 0.7989707961626961
+Time upload: 0.9757470057603561
+Time upload: 1.1556680394997052
+Time upload: 1.2983469368345086
+Time upload: 1.388307453704183
+Time upload: 1.4441706583110012
+Time upload: 1.5000338629178194
+Time upload: 1.5558970675246375
+Time upload: 1.6117602721314557
+Time upload: 1.6676234767382738
+Time upload: 1.6862445449405465
+Selected data length (|D_UL|): 307200
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 33.2000000000002/33.27213664611758 [00:33<00:00,  1.01s/it]   
+Scheduled model update and upload...
+Scheduled model update and upload time: 123.87564373016357 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.3898, test loss: 2.3036, round time: 161.72239136695862
+
+Running round: 66 - Time elapsed: 11261.29581618309 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 182.24035107797505
+Current T round: 179.06148052903578
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 34.30000000000022/34.34389463891897 [00:34<00:00,  1.01s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 128.030779838562 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.3829, test loss: 2.4955, round time: 165.69877791404724
+
+Running round: 67 - Time elapsed: 11426.996166229248 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 179.06148052903578
+Current T round: 178.7691052844924
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 28.90000000000014/28.9792180902681 [00:29<00:00,  1.01s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 146.62386798858643 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4038, test loss: 2.1405, round time: 178.82512855529785
+
+Running round: 68 - Time elapsed: 11605.822818040848 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 178.7691052844924
+Current T round: 185.62148090254993
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 2
+Time upload: 0
+Time upload: 0.17456602298532212
+Time upload: 0.3491320459706441
+Time upload: 0.523698068955966
+Time upload: 0.6987876744841015
+Time upload: 0.8746626538264574
+Time upload: 1.051061215711627
+Time upload: 1.2277215688682035
+Time upload: 1.3869253197262477
+Time upload: 1.5106922834444139
+Time upload: 1.6170026448640478
+Time upload: 1.6524394320039257
+Time upload: 1.6878762191438037
+Time upload: 1.7233130062836817
+Selected data length (|D_UL|): 307200
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 35.600000000000236/35.65638067667474 [00:36<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 121.64107847213745 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4225, test loss: 2.4548, round time: 161.6771640777588
+
+Running round: 69 - Time elapsed: 11767.501585006714 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 185.62148090254993
+Current T round: 185.9239395943862
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 2
+Time upload: 0
+Time upload: 0.19224878133238532
+Time upload: 0.38449756266477064
+Time upload: 0.5767463439971559
+Time upload: 0.7699085065816323
+Time upload: 0.9639840504182008
+Time upload: 1.158972975506861
+Time upload: 1.3356504037143746
+Time upload: 1.5123278319218882
+Time upload: 1.6697803819961634
+Time upload: 1.7681882257925854
+Time upload: 1.8272329320704386
+Time upload: 1.8665960695890074
+Time upload: 1.9059592071075762
+Time upload: 1.9256407758668606
+Selected data length (|D_UL|): 307200
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 33.70000000000021/33.740028075390825 [00:34<00:00,  1.01s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 131.75945568084717 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.3560, test loss: 2.9376, round time: 170.03456449508667
+
+Running round: 70 - Time elapsed: 11937.537794828415 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 185.9239395943862
+Current T round: 183.45138980214662
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 2
+Time upload: 0
+Time upload: 0.17396809667217394
+Time upload: 0.3479947375235509
+Time upload: 0.5220213783749278
+Time upload: 0.6961651075847101
+Time upload: 0.8703088367944923
+Time upload: 1.0446867427210866
+Time upload: 1.1842124851340439
+Time upload: 1.323738227547001
+Time upload: 1.4458671602927409
+Time upload: 1.5331439295248428
+Time upload: 1.585509991064104
+Time upload: 1.637876052603365
+Time upload: 1.6553314064497855
+Time upload: 1.6727867602962059
+Time upload: 1.6902421141426263
+Time upload: 1.7076974679890466
+Time upload: 1.725152821835467
+Selected data length (|D_UL|): 307200
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 35.20000000000023/35.241967606913555 [00:35<00:00,  1.01s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 130.38355374336243 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4394, test loss: 2.0642, round time: 170.2019498348236
+
+Running round: 71 - Time elapsed: 12107.741149902344 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 183.45138980214662
+Current T round: 179.61507676075595
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 30.20000000000016/30.261225897139244 [00:30<00:00,  1.02s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 144.6708118915558 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4626, test loss: 1.9672, round time: 178.26301455497742
+
+Running round: 72 - Time elapsed: 12286.005698680878 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 179.61507676075595
+Current T round: 182.79681253500235
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 2
+Time upload: 0
+Time upload: 0.18051370199560335
+Time upload: 0.3610274039912066
+Time upload: 0.5421650636806246
+Time upload: 0.7245506387576719
+Time upload: 0.9081841292223483
+Time upload: 1.0918176196870246
+Time upload: 1.2586476553397696
+Time upload: 1.3887509928995794
+Time upload: 1.5001790025660142
+Time upload: 1.5935556420328887
+Time upload: 1.6495816257130134
+Time upload: 1.6869322814997632
+Time upload: 1.724282937286513
+Time upload: 1.7616335930732627
+Time upload: 1.7989842488600125
+Selected data length (|D_UL|): 307200
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 34.70000000000022/34.79700579436989 [00:35<00:00,  1.01s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 135.74235725402832 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4587, test loss: 2.1932, round time: 175.05406665802002
+
+Running round: 73 - Time elapsed: 12461.061568498611 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 182.79681253500235
+Current T round: 180.51839424405367
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 2
+Time upload: 0
+Time upload: 0.1703619783354261
+Time upload: 0.3441272938109998
+Time upload: 0.5178926092865735
+Time upload: 0.6984645990424427
+Time upload: 0.8790365887983119
+Time upload: 1.0732219271147723
+Time upload: 1.25037106759769
+Time upload: 1.4070806731069174
+Time upload: 1.5467540807826021
+Time upload: 1.6693912906247441
+Time upload: 1.7715889654931958
+Time upload: 1.8329075704142668
+Time upload: 1.853347105387957
+Selected data length (|D_UL|): 307200
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 37.30000000000026/37.36187717897617 [00:37<00:00,  1.01s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 129.04461216926575 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4442, test loss: 2.2609, round time: 170.77609586715698
+
+Running round: 74 - Time elapsed: 12631.839176177979 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 180.51839424405367
+Current T round: 181.59546677257734
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 31.800000000000182/31.853117139402798 [00:32<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 153.7942397594452 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4142, test loss: 2.5616, round time: 188.97289657592773
+
+Running round: 75 - Time elapsed: 12820.813490390778 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 181.59546677257734
+Current T round: 183.60091516586525
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 30.500000000000163/30.52595347153201 [00:30<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 148.00558996200562 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4186, test loss: 2.4450, round time: 181.79508996009827
+
+Running round: 76 - Time elapsed: 13002.609989643097 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 183.60091516586525
+Current T round: 181.44632988430217
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.16383827580936985
+Time upload: 0.3276765516187397
+Time upload: 0.49151482742810954
+Time upload: 0.6225854480756058
+Time upload: 0.704504585980291
+Time upload: 0.7536560687231021
+Time upload: 0.7864237238849762
+Time upload: 0.8028075514659132
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 34.900000000000226/34.92321134718944 [00:35<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 132.17183351516724 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4017, test loss: 2.8643, round time: 170.8644082546234
+
+Running round: 77 - Time elapsed: 13173.47600197792 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 181.44632988430217
+Current T round: 180.65832800411278
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 2
+Time upload: 0
+Time upload: 0.1498833896017779
+Time upload: 0.2997667792035559
+Time upload: 0.44965016880533404
+Time upload: 0.6082536386966884
+Time upload: 0.7755771888776188
+Time upload: 0.9322724402431596
+Time upload: 1.082699432938099
+Time upload: 1.2137780465280728
+Time upload: 1.3492167002628348
+Time upload: 1.4653069748926308
+Time upload: 1.5427004913124949
+Time upload: 1.600745628627393
+Time upload: 1.639442386837325
+Time upload: 1.658790765942291
+Time upload: 1.678139145047257
+Time upload: 1.697487524152223
+Selected data length (|D_UL|): 307200
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 31.70000000000018/31.74368943159188 [00:32<00:00,  1.02s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 123.83711862564087 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.3798, test loss: 2.6621, round time: 160.20083022117615
+
+Running round: 78 - Time elapsed: 13333.678368806839 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 180.65832800411278
+Current T round: 181.81235560648653
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 2
+Time upload: 0
+Time upload: 0.15806252161563783
+Time upload: 0.31612504323127566
+Time upload: 0.47666944967766856
+Time upload: 0.6421776257855716
+Time upload: 0.8126495715549846
+Time upload: 0.9648333803320788
+Time upload: 1.1244628436014386
+Time upload: 1.2682860547092347
+Time upload: 1.412109265817031
+Time upload: 1.5401262247632632
+Time upload: 1.6315669097248577
+Selected data length (|D_UL|): 307200
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 36.300000000000246/36.30641914881547 [00:36<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 145.74321293830872 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4621, test loss: 2.0931, round time: 186.41809391975403
+
+Running round: 79 - Time elapsed: 13520.09799695015 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 181.81235560648653
+Current T round: 181.63737196150126
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 28.80000000000014/28.8632415560698 [00:29<00:00,  1.01s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 142.78864097595215 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4390, test loss: 2.2135, round time: 174.9067084789276
+
+Running round: 80 - Time elapsed: 13695.006245613098 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 181.63737196150126
+Current T round: 184.18469500616564
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.1707683406374679
+Time upload: 0.34153668127493575
+Time upload: 0.5123050219124035
+Time upload: 0.6489196944223781
+Time upload: 0.751380698804859
+Time upload: 0.8196880350598463
+Time upload: 0.8367648691235932
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 32.700000000000195/32.71032181123544 [00:33<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 152.57385969161987 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4461, test loss: 2.4051, round time: 189.09425950050354
+
+Running round: 81 - Time elapsed: 13884.10195851326 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 184.18469500616564
+Current T round: 180.72207660411556
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.18049513900042827
+Time upload: 0.34294076410081376
+Time upload: 0.48733687530115644
+Time upload: 0.6317329865014991
+Time upload: 0.7400300699017561
+Time upload: 0.8122281255019275
+Time upload: 0.866376667202056
+Time upload: 0.8844261811020988
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 33.0000000000002/33.08254722016755 [00:33<00:00,  1.01s/it]   
+Scheduled model update and upload...
+Scheduled model update and upload time: 127.616694688797 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4469, test loss: 2.3821, round time: 164.41571950912476
+
+Running round: 82 - Time elapsed: 14048.519060611725 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 180.72207660411556
+Current T round: 181.6991211827141
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.2112514243670467
+Time upload: 0.4013777062973886
+Time upload: 0.570378845791026
+Time upload: 0.6971297004112543
+Time upload: 0.8238805550314826
+Time upload: 0.9083811247783015
+Time upload: 0.9928816945251203
+Time upload: 1.0351319793985296
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 36.900000000000254/36.93025038787574 [00:37<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 136.12972974777222 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4666, test loss: 2.0939, round time: 176.921213388443
+
+Running round: 83 - Time elapsed: 14225.441893577576 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 181.6991211827141
+Current T round: 181.34407140246134
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.1485910018309271
+Time upload: 0.2823229034787616
+Time upload: 0.4011957049435034
+Time upload: 0.5200685064082451
+Time upload: 0.6092231075068011
+Time upload: 0.6686595082391718
+Time upload: 0.7132368087884497
+Time upload: 0.7280959089715424
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 31.60000000000018/31.62196798788664 [00:32<00:00,  1.01s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 152.57949709892273 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4218, test loss: 2.4600, round time: 188.02044939994812
+
+Running round: 84 - Time elapsed: 14413.463932991028 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 181.34407140246134
+Current T round: 183.1553579799968
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 30.30000000000016/30.37143651405496 [00:30<00:00,  1.02s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 151.36833500862122 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4062, test loss: 2.7213, round time: 185.1233413219452
+
+Running round: 85 - Time elapsed: 14598.588841438293 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 183.1553579799968
+Current T round: 181.78238533698357
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.16901582140175062
+Time upload: 0.33803164280350123
+Time upload: 0.4901458820650768
+Time upload: 0.6253585391864769
+Time upload: 0.7098664498873519
+Time upload: 0.777472778448052
+Time upload: 0.811275942728402
+Time upload: 0.828177524868577
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 30.800000000000168/30.826466125376413 [00:31<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 148.16942691802979 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4558, test loss: 2.5310, round time: 182.73160791397095
+
+Running round: 86 - Time elapsed: 14781.321802139282 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 181.78238533698357
+Current T round: 183.67994672170417
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.1970869155018598
+Time upload: 0.3941738310037194
+Time upload: 0.571552054955393
+Time upload: 0.7095128958066946
+Time upload: 0.8080563535576244
+Time upload: 0.9065998113085542
+Time upload: 0.9460171944089261
+Time upload: 0.965725885959112
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 34.800000000000225/34.83692652961182 [00:35<00:00,  1.02s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 129.85792350769043 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4674, test loss: 2.3181, round time: 168.5288372039795
+
+Running round: 87 - Time elapsed: 14949.852176904678 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 183.67994672170417
+Current T round: 176.76563374894894
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 2
+Time upload: 0
+Time upload: 0.16047726306680066
+Time upload: 0.3209545261336012
+Time upload: 0.4845974872972393
+Time upload: 0.6545718446545524
+Time upload: 0.811664173802023
+Time upload: 0.9687565029494937
+Time upload: 1.1161325019839594
+Time upload: 1.2666741991152626
+Time upload: 1.3787890474395306
+Time upload: 1.494069593860636
+Time upload: 1.6093501402817416
+Time upload: 1.686203837895812
+Time upload: 1.7438441111063647
+Selected data length (|D_UL|): 307200
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 33.0000000000002/33.045345365009396 [00:33<00:00,  1.02s/it]   
+Scheduled model update and upload...
+Scheduled model update and upload time: 121.56818413734436 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4082, test loss: 3.2452, round time: 159.01992464065552
+
+Running round: 88 - Time elapsed: 15108.873537063599 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 176.76563374894894
+Current T round: 181.43729901584481
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.17618092942734867
+Time upload: 0.3347437659119625
+Time upload: 0.49330660239657625
+Time upload: 0.6166332529957204
+Time upload: 0.7399599035948644
+Time upload: 0.792814182423069
+Time upload: 0.8280503683085387
+Time upload: 0.8632865541940085
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 30.90000000000017/30.959930874751514 [00:31<00:00,  1.02s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 127.1370894908905 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4198, test loss: 2.8458, round time: 161.8517804145813
+
+Running round: 89 - Time elapsed: 15270.726724863052 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 181.43729901584481
+Current T round: 184.58661183573236
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 3
+Time upload: 0
+Time upload: 0.17745418801364402
+Time upload: 0.3549979652641353
+Time upload: 0.5326313317514739
+Time upload: 0.7142383536283674
+Time upload: 0.8958453755052609
+Time upload: 1.0776315758558492
+Time upload: 1.2377882912523652
+Time upload: 1.401918662038436
+Time upload: 1.5699330989772144
+Time upload: 1.7418316020687004
+Time upload: 1.9175245820760465
+Time upload: 2.100806515915113
+Time upload: 2.2916774035858998
+Selected data length (|D_UL|): 393216
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 30.400000000000162/30.446362881702026 [00:30<00:00,  1.02s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 153.18773865699768 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4144, test loss: 2.4948, round time: 188.5841941833496
+
+Running round: 90 - Time elapsed: 15459.312669992447 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 184.58661183573236
+Current T round: 181.9361053372319
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 32.40000000000019/32.401261373967856 [00:32<00:00,  1.02s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 146.08219742774963 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.3883, test loss: 2.9022, round time: 181.90901684761047
+
+Running round: 91 - Time elapsed: 15641.223121404648 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 181.9361053372319
+Current T round: 181.86461969340203
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 2
+Time upload: 0
+Time upload: 0.16378329975525907
+Time upload: 0.32756659951051814
+Time upload: 0.49260040616709816
+Time upload: 0.6601352266263203
+Time upload: 0.8301710608881844
+Time upload: 1.0002068951500485
+Time upload: 1.1739942501158753
+Time upload: 1.3137744382293295
+Time upload: 1.4006681157122431
+Time upload: 1.4535546263427839
+Time upload: 1.5064411369733246
+Time upload: 1.5593276476038653
+Time upload: 1.612214158234406
+Time upload: 1.6651006688649468
+Time upload: 1.6827295057417937
+Selected data length (|D_UL|): 307200
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 35.30000000000023/35.384561053518986 [00:35<00:00,  1.02s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 147.01891660690308 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4006, test loss: 2.8961, round time: 187.0993390083313
+
+Running round: 92 - Time elapsed: 15828.32406258583 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 181.86461969340203
+Current T round: 178.72851613195706
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 31.70000000000018/31.71156124272679 [00:32<00:00,  1.02s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 145.79531598091125 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4241, test loss: 2.6474, round time: 181.01041913032532
+
+Running round: 93 - Time elapsed: 16009.336007595062 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 178.72851613195706
+Current T round: 181.0817035862153
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.15837148475777027
+Time upload: 0.3009058210397636
+Time upload: 0.42760300884598
+Time upload: 0.5226258997006422
+Time upload: 0.6176487905553042
+Time upload: 0.6809973844584122
+Time upload: 0.7443459783615202
+Time upload: 0.7760202753130742
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 32.30000000000019/32.32080782292639 [00:32<00:00,  1.02s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 123.66954445838928 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.3966, test loss: 3.1265, round time: 160.07828378677368
+
+Running round: 94 - Time elapsed: 16169.415909290314 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 181.0817035862153
+Current T round: 182.57084828126293
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.16250280917103846
+Time upload: 0.3250056183420769
+Time upload: 0.4712581465960115
+Time upload: 0.5850101130157387
+Time upload: 0.6662615176012582
+Time upload: 0.7475129221867777
+Time upload: 0.7800134840209855
+Time upload: 0.7962637649380894
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 36.80000000000025/36.81415744825373 [00:37<00:00,  1.02s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 135.8678593635559 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4871, test loss: 2.6020, round time: 176.73221492767334
+
+Running round: 95 - Time elapsed: 16346.149499416351 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 182.57084828126293
+Current T round: 182.66900667249394
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.2194939389940823
+Time upload: 0.41703848408875654
+Time upload: 0.5926336352840224
+Time upload: 0.7682287864792879
+Time upload: 0.8999251498757371
+Time upload: 0.9877227254733699
+Time upload: 1.0535709071715946
+Time upload: 1.0755203010710028
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 37.20000000000026/37.248902506761034 [00:37<00:00,  1.02s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 138.150714635849 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4090, test loss: 3.5029, round time: 179.43134355545044
+
+Running round: 96 - Time elapsed: 16525.582394599915 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 182.66900667249394
+Current T round: 185.04868379132753
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.16415443897686055
+Time upload: 0.31189343405603515
+Time upload: 0.45963242913520974
+Time upload: 0.5745405364190119
+Time upload: 0.689448643702814
+Time upload: 0.738694975395872
+Time upload: 0.771525863191244
+Time upload: 0.8043567509866161
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 31.900000000000183/31.971803594573473 [00:32<00:00,  1.02s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 152.94172978401184 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4801, test loss: 2.2271, round time: 188.66896653175354
+
+Running round: 97 - Time elapsed: 16714.252917289734 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 185.04868379132753
+Current T round: 177.65108281470782
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.1935149371398819
+Time upload: 0.3870298742797639
+Time upload: 0.5805448114196456
+Time upload: 0.7547082548455389
+Time upload: 0.890168710843456
+Time upload: 0.9482231919854204
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 34.30000000000022/34.32883017690287 [00:34<00:00,  1.02s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 131.1780505180359 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4706, test loss: 2.6234, round time: 169.35406064987183
+
+Running round: 98 - Time elapsed: 16883.608555555344 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 177.65108281470782
+Current T round: 177.7990834289932
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.2025905858439304
+Time upload: 0.4051811716878607
+Time upload: 0.587512698947398
+Time upload: 0.7293261090381492
+Time upload: 0.8306214019601144
+Time upload: 0.9319166948820795
+Time upload: 0.9724348120508656
+Time upload: 0.9926938706352586
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 29.200000000000145/29.247579989744597 [00:29<00:00,  1.02s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 143.40411686897278 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4931, test loss: 2.4757, round time: 176.50987219810486
+
+Running round: 99 - Time elapsed: 17060.120100021362 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 177.7990834289932
+Current T round: 179.49323914858232
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 31.500000000000178/31.58852386378213 [00:32<00:00,  1.02s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 124.1278760433197 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.3977, test loss: 3.3766, round time: 159.0506854057312
+
+Running round: 100 - Time elapsed: 17219.17223215103 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 179.49323914858232
+Current T round: 182.05028031424337
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 29.700000000000152/29.70130213461161 [00:30<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 140.76945328712463 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4564, test loss: 2.5231, round time: 173.86102032661438
+
+Running round: 101 - Time elapsed: 17393.034719467163 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 182.05028031424337
+Current T round: 185.1292760452229
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 2
+Time upload: 0
+Time upload: 0.15986032904414768
+Time upload: 0.3197206580882953
+Time upload: 0.4795809871324428
+Time upload: 0.6402210746578629
+Time upload: 0.8024206791458276
+Time upload: 0.9677393175588811
+Time upload: 1.1346174729344782
+Time upload: 1.2855095954056603
+Time upload: 1.4028701351054687
+Time upload: 1.50346488341959
+Time upload: 1.5369964661909639
+Time upload: 1.5705280489623377
+Time upload: 1.6040596317337115
+Selected data length (|D_UL|): 307200
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 33.3000000000002/33.30205062628926 [00:33<00:00,  1.01s/it]   
+Scheduled model update and upload...
+Scheduled model update and upload time: 129.29361867904663 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4594, test loss: 2.9679, round time: 167.00672793388367
+
+Running round: 102 - Time elapsed: 17560.043066740036 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 185.1292760452229
+Current T round: 183.9035250524153
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 3
+Time upload: 0
+Time upload: 0.1702463811452547
+Time upload: 0.341447002168629
+Time upload: 0.5136018630701228
+Time upload: 0.6857567239716166
+Time upload: 0.8598200646293493
+Time upload: 1.0365568167615251
+Time upload: 1.2142478087718196
+Time upload: 1.3946122122565574
+Time upload: 1.5749766157412952
+Time upload: 1.7383163811115077
+Time upload: 1.8844422002072796
+Time upload: 2.032862814457665
+Time upload: 2.1820483604262546
+Time upload: 2.312490096683995
+Selected data length (|D_UL|): 408576
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 35.80000000000024/35.897542215954836 [00:36<00:00,  1.01s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 153.01835584640503 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4620, test loss: 2.6452, round time: 193.8261058330536
+
+Running round: 103 - Time elapsed: 17753.870629549026 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 183.9035250524153
+Current T round: 179.67736504443405
+Max T round: 186.8792542888696
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.15946439842059315
+Time upload: 0.3189287968411862
+Time upload: 0.4783931952617791
+Time upload: 0.6059647139982538
+Time upload: 0.7016433530506099
+Time upload: 0.7654291124188473
+Time upload: 0.7813755522609066
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 33.400000000000205/33.49174135602017 [00:33<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 130.71291303634644 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.5034, test loss: 2.3291, round time: 167.8257417678833
+
+Running round: 104 - Time elapsed: 17921.69779586792 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 179.67736504443405
+Current T round: 187.4495023134522
+Max T round: 187.4495023134522
+Min T round: 175.98659143043855
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.19423716723714293
+Time upload: 0.38847433447428587
+Time upload: 0.582711501711429
+Time upload: 0.7381012355011438
+Time upload: 0.8546435358434299
+Time upload: 0.9129146860145729
+Time upload: 0.9517621194620016
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 31.800000000000182/31.82078145200795 [00:32<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 157.8095202445984 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.3814, test loss: 4.0201, round time: 193.34961676597595
+
+Running round: 105 - Time elapsed: 18115.048986196518 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 187.4495023134522
+Current T round: 187.2768027750086
+Max T round: 187.4495023134522
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 3
+Time upload: 0
+Time upload: 0.1664808774727079
+Time upload: 0.3329617549454157
+Time upload: 0.4994426324181235
+Time upload: 0.6679070667977786
+Time upload: 0.8383550580843809
+Time upload: 1.0117783847314044
+Time upload: 1.1872551014857768
+Time upload: 1.363723596693623
+Time upload: 1.5422454820088183
+Time upload: 1.7239522022856402
+Time upload: 1.907782145870213
+Time upload: 2.0739722232540414
+Time upload: 2.20275934492863
+Selected data length (|D_UL|): 396288
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 35.600000000000236/35.629377027522835 [00:36<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 132.71367573738098 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4680, test loss: 2.6769, round time: 173.29916501045227
+
+Running round: 106 - Time elapsed: 18288.349604845047 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 187.2768027750086
+Current T round: 181.379661707653
+Max T round: 187.4495023134522
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 34.100000000000215/34.19933304201426 [00:34<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 124.82205271720886 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4549, test loss: 2.3867, round time: 162.22457098960876
+
+Running round: 107 - Time elapsed: 18450.575724363327 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 181.379661707653
+Current T round: 182.94669708607134
+Max T round: 187.4495023134522
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.1599963410535404
+Time upload: 0.3199926821070808
+Time upload: 0.47998902316062125
+Time upload: 0.6239857301088072
+Time upload: 0.7359831688462851
+Time upload: 0.7839820711623471
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 34.30000000000022/34.38863451064483 [00:34<00:00,  1.01s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 121.34805941581726 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.3999, test loss: 3.9548, round time: 159.43368577957153
+
+Running round: 108 - Time elapsed: 18610.010969161987 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 182.94669708607134
+Current T round: 180.6144612194159
+Max T round: 187.4495023134522
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 34.00000000000021/34.012262297847414 [00:34<00:00,  1.01s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 127.34582042694092 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4396, test loss: 2.7216, round time: 164.57424521446228
+
+Running round: 109 - Time elapsed: 18774.58654332161 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 180.6144612194159
+Current T round: 181.66735730824232
+Max T round: 187.4495023134522
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 2
+Time upload: 0
+Time upload: 0.1684938041093159
+Time upload: 0.336993874570409
+Time upload: 0.5054939450315021
+Time upload: 0.6740065481961492
+Time upload: 0.8425191513607964
+Time upload: 1.0110568199325525
+Time upload: 1.1796007548560858
+Time upload: 1.2975777494914928
+Time upload: 1.3987053637159683
+Time upload: 1.4661279507668035
+Time upload: 1.5166948910549298
+Time upload: 1.5672618313430562
+Time upload: 1.6178287716311825
+Time upload: 1.6515400651566001
+Time upload: 1.668395711919309
+Selected data length (|D_UL|): 307200
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 33.60000000000021/33.69864695120893 [00:34<00:00,  1.01s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 127.92745280265808 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4383, test loss: 2.4998, round time: 166.14257192611694
+
+Running round: 110 - Time elapsed: 18940.73055243492 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 181.66735730824232
+Current T round: 186.05197698931477
+Max T round: 187.4495023134522
+Min T round: 175.98659143043855
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 3
+Time upload: 0
+Time upload: 0.18162130351882663
+Time upload: 0.36324260703765343
+Time upload: 0.5450601677486786
+Time upload: 0.7272702428441001
+Time upload: 0.9098728323239185
+Time upload: 1.0924754218037371
+Time upload: 1.2756667828601516
+Time upload: 1.4599463428706794
+Time upload: 1.6455638155240795
+Time upload: 1.832269487131593
+Time upload: 2.018975158739106
+Time upload: 2.186876471921579
+Time upload: 2.317169068253975
+Time upload: 2.4098529477362947
+Selected data length (|D_UL|): 402432
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 29.60000000000015/29.64008106310893 [00:30<00:00,  1.01s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 141.6651690006256 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4798, test loss: 2.5192, round time: 176.2501094341278
+
+Running round: 111 - Time elapsed: 19116.982242822647 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 186.05197698931477
+Current T round: 181.35792456938998
+Max T round: 187.4495023134522
+Min T round: 175.98659143043855
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.18872719151826975
+Time upload: 0.3585816638847125
+Time upload: 0.5095634170993283
+Time upload: 0.6227997320102902
+Time upload: 0.736036046921252
+Time upload: 0.8115269235285599
+Time upload: 0.8870178001358678
+Time upload: 0.9247632384395218
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 30.500000000000163/30.553812202320348 [00:30<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 145.89425683021545 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.3790, test loss: 3.6708, round time: 180.175110578537
+
+Running round: 112 - Time elapsed: 19297.158807516098 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 181.35792456938998
+Current T round: 182.4324641162112
+Max T round: 187.4495023134522
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 3
+Time upload: 0
+Time upload: 0.15720801123678182
+Time upload: 0.31681115417846634
+Time upload: 0.4764142971201508
+Time upload: 0.6408077034716403
+Time upload: 0.8052011098231296
+Time upload: 0.9791750429942297
+Time upload: 1.1567659144576699
+Time upload: 1.33435678592111
+Time upload: 1.5155645956768893
+Time upload: 1.7003893437250075
+Time upload: 1.890101318122871
+Time upload: 2.0616973596921544
+Selected data length (|D_UL|): 380928
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 32.800000000000196/32.819261220300056 [00:33<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 145.24532914161682 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.5061, test loss: 2.1440, round time: 182.75267100334167
+
+Running round: 113 - Time elapsed: 19479.91290330887 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 182.4324641162112
+Current T round: 181.3159416436877
+Max T round: 187.4495023134522
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 2
+Time upload: 0
+Time upload: 0.17469433842067175
+Time upload: 0.3493886768413435
+Time upload: 0.5240830152620153
+Time upload: 0.7023010037284609
+Time upload: 0.88404264224068
+Time upload: 1.051838496956605
+Time upload: 1.2213961766954167
+Time upload: 1.392715681457115
+Time upload: 1.5273344935117925
+Time upload: 1.6042595289716082
+Time upload: 1.6811845644314238
+Time upload: 1.7581095998912395
+Time upload: 1.8158033764861012
+Selected data length (|D_UL|): 307200
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 36.10000000000024/36.1960199127615 [00:36<00:00,  1.01s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 129.43318438529968 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4522, test loss: 2.6135, round time: 169.90006685256958
+
+Running round: 114 - Time elapsed: 19649.814569711685 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 181.3159416436877
+Current T round: 186.11160681248222
+Max T round: 187.4495023134522
+Min T round: 175.98659143043855
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 32.000000000000185/32.075065338284276 [00:32<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 157.97831797599792 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4657, test loss: 2.5674, round time: 193.273766040802
+
+Running round: 115 - Time elapsed: 19843.089858531952 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 186.11160681248222
+Current T round: 185.4433936197007
+Max T round: 187.4495023134522
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.20311553277080516
+Time upload: 0.38591951226452975
+Time upload: 0.548411938481174
+Time upload: 0.6702812581436574
+Time upload: 0.7921505778061407
+Time upload: 0.873396790914463
+Time upload: 0.9546430040227852
+Time upload: 0.9952661105769464
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 36.60000000000025/36.632151129495256 [00:37<00:00,  1.01s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 149.10094714164734 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.5043, test loss: 2.2147, round time: 189.6388921737671
+
+Running round: 116 - Time elapsed: 20032.730613708496 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 185.4433936197007
+Current T round: 178.06679702469296
+Max T round: 187.4495023134522
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 31.70000000000018/31.76079361890744 [00:32<00:00,  1.01s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 122.67773032188416 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4880, test loss: 2.4836, round time: 157.76678800582886
+
+Running round: 117 - Time elapsed: 20190.49943256378 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 178.06679702469296
+Current T round: 183.72092902398177
+Max T round: 187.4495023134522
+Min T round: 175.98659143043855
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.16642233746199056
+Time upload: 0.31620244117778207
+Time upload: 0.46598254489357355
+Time upload: 0.5824781811169671
+Time upload: 0.6989738173403609
+Time upload: 0.7489005185789582
+Time upload: 0.7821849860713564
+Time upload: 0.8154694535637547
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 31.500000000000178/31.57780203310071 [00:31<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 155.47385215759277 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4197, test loss: 2.9709, round time: 190.74530243873596
+
+Running round: 118 - Time elapsed: 20381.24651479721 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 183.72092902398177
+Current T round: 179.6479469512455
+Max T round: 187.4495023134522
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.16170394229077512
+Time upload: 0.3072374903524727
+Time upload: 0.4366006441850928
+Time upload: 0.5336230095595579
+Time upload: 0.630645374934023
+Time upload: 0.695326951850333
+Time upload: 0.760008528766643
+Time upload: 0.7923493172247981
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 36.60000000000025/36.6979917809417 [00:37<00:00,  1.01s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 133.57586336135864 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.5155, test loss: 2.2409, round time: 173.94438529014587
+
+Running round: 119 - Time elapsed: 20555.192560195923 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 179.6479469512455
+Current T round: 184.29996649749228
+Max T round: 187.4495023134522
+Min T round: 175.98659143043855
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 2
+Time upload: 0
+Time upload: 0.16451656536495055
+Time upload: 0.3290331307299011
+Time upload: 0.4935496960948516
+Time upload: 0.6689448243096531
+Time upload: 0.8552185153743054
+Time upload: 1.0523707692888087
+Time upload: 1.2439499295166678
+Time upload: 1.435529089744527
+Time upload: 1.5887656554744705
+Time upload: 1.7201112832429934
+Time upload: 1.8076750350886754
+Time upload: 1.8514569110115164
+Time upload: 1.8952387869343574
+Selected data length (|D_UL|): 307200
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 32.9000000000002/32.99889545198326 [00:33<00:00,  1.01s/it]   
+Scheduled model update and upload...
+Scheduled model update and upload time: 129.12789058685303 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4345, test loss: 2.8327, round time: 166.44284796714783
+
+Running round: 120 - Time elapsed: 20721.636967420578 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 184.29996649749228
+Current T round: 186.46367384336816
+Max T round: 187.4495023134522
+Min T round: 175.98659143043855
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 32.30000000000019/32.33956534551032 [00:32<00:00,  1.01s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 150.2603108882904 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4498, test loss: 2.7247, round time: 185.89920663833618
+
+Running round: 121 - Time elapsed: 20907.53751707077 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 186.46367384336816
+Current T round: 175.73009547305446
+Max T round: 187.4495023134522
+Min T round: 175.73009547305446
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 2
+Time upload: 0
+Time upload: 0.1768635176590726
+Time upload: 0.3537270353181453
+Time upload: 0.530590552977218
+Time upload: 0.7116726919171134
+Time upload: 0.879287100371924
+Time upload: 1.051120130107557
+Time upload: 1.2052668080772821
+Time upload: 1.3615227966874186
+Time upload: 1.517778785297555
+Time upload: 1.6365527597354659
+Time upload: 1.7355310717670582
+Time upload: 1.8147137213923321
+Time upload: 1.854305046204969
+Selected data length (|D_UL|): 307200
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 31.500000000000178/31.584947156930706 [00:31<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 126.62599587440491 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4783, test loss: 2.9300, round time: 162.50425744056702
+
+Running round: 122 - Time elapsed: 21070.04322886467 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 175.73009547305446
+Current T round: 180.67719579235958
+Max T round: 187.4495023134522
+Min T round: 175.73009547305446
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 33.400000000000205/33.44551950671209 [00:33<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 124.90955591201782 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4547, test loss: 2.4703, round time: 161.74804544448853
+
+Running round: 123 - Time elapsed: 21231.792712450027 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 180.67719579235958
+Current T round: 178.33881122290617
+Max T round: 187.4495023134522
+Min T round: 175.73009547305446
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 3
+Time upload: 0
+Time upload: 0.16956968513362083
+Time upload: 0.33920530392102294
+Time upload: 0.5089068563622062
+Time upload: 0.6786084088033891
+Time upload: 0.8484418285521346
+Time upload: 1.0214548925941127
+Time upload: 1.1975816672755424
+Time upload: 1.3738403092645344
+Time upload: 1.5500989512535264
+Time upload: 1.7325190808676396
+Time upload: 1.9009640853002796
+Time upload: 2.0323155084129634
+Time upload: 2.1697624854969884
+Time upload: 2.267068104275386
+Selected data length (|D_UL|): 399360
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 29.60000000000015/29.681624089862154 [00:30<00:00,  1.02s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 146.36396956443787 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4211, test loss: 3.4859, round time: 181.10141730308533
+
+Running round: 124 - Time elapsed: 21412.895674943924 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 178.33881122290617
+Current T round: 181.593255270606
+Max T round: 187.4495023134522
+Min T round: 175.73009547305446
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 2
+Time upload: 0
+Time upload: 0.1748772845845056
+Time upload: 0.3503803901754671
+Time upload: 0.5265093167728846
+Time upload: 0.7038898853832146
+Time upload: 0.8812704539935446
+Time upload: 1.0417891151518799
+Time upload: 1.2023077763102143
+Time upload: 1.3278509805516479
+Time upload: 1.4359064563346309
+Time upload: 1.54458775312407
+Time upload: 1.6351555004486025
+Time upload: 1.7076096983082285
+Time upload: 1.761950346702948
+Selected data length (|D_UL|): 307200
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 30.000000000000156/30.054157382299472 [00:30<00:00,  1.02s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 153.83208394050598 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.5293, test loss: 1.7552, round time: 188.36743688583374
+
+Running round: 125 - Time elapsed: 21601.264526367188 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 181.593255270606
+Current T round: 181.91970735441163
+Max T round: 187.4495023134522
+Min T round: 175.73009547305446
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 2
+Time upload: 0
+Time upload: 0.14812031052454505
+Time upload: 0.2962406210490901
+Time upload: 0.444360931573635
+Time upload: 0.5928505715481419
+Time upload: 0.726897509920156
+Time upload: 0.8613137777421317
+Time upload: 0.9809180145116528
+Time upload: 1.1007069160061556
+Time upload: 1.2204958175006582
+Time upload: 1.3104759921652709
+Time upload: 1.3854594710524482
+Time upload: 1.44544625416219
+Time upload: 1.4754396457170609
+Selected data length (|D_UL|): 307200
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 32.30000000000019/32.305711489888175 [00:32<00:00,  1.01s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 147.93216371536255 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.5354, test loss: 1.5655, round time: 184.76757907867432
+
+Running round: 126 - Time elapsed: 21786.03356218338 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 181.91970735441163
+Current T round: 183.20743863703106
+Max T round: 187.4495023134522
+Min T round: 175.73009547305446
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.1848707634816398
+Time upload: 0.36974152696327967
+Time upload: 0.5546122904449194
+Time upload: 0.7025089012302309
+Time upload: 0.8134313593192145
+Time upload: 0.8873796647118702
+Time upload: 0.9058667410600342
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 32.30000000000019/32.32929985636791 [00:32<00:00,  1.01s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 127.94677448272705 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.3960, test loss: 3.2973, round time: 164.0183506011963
+
+Running round: 127 - Time elapsed: 21950.053340435028 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 183.20743863703106
+Current T round: 178.75087894073525
+Max T round: 187.4495023134522
+Min T round: 175.73009547305446
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.1805877567190142
+Time upload: 0.36117551343802823
+Time upload: 0.5417632701570422
+Time upload: 0.6862334755322533
+Time upload: 0.7945861295636617
+Time upload: 0.8668212322512673
+Time upload: 0.8848800079231687
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 31.300000000000175/31.385084632840943 [00:31<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 146.9625632762909 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4891, test loss: 2.3250, round time: 181.9920380115509
+
+Running round: 128 - Time elapsed: 22132.046860218048 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 178.75087894073525
+Current T round: 183.13962147870146
+Max T round: 187.4495023134522
+Min T round: 175.73009547305446
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 35.20000000000023/35.27334708598725 [00:35<00:00,  1.01s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 127.8159453868866 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4861, test loss: 2.2745, round time: 166.37157583236694
+
+Running round: 129 - Time elapsed: 22298.419807434082 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 183.13962147870146
+Current T round: 181.57579655988317
+Max T round: 187.4495023134522
+Min T round: 175.73009547305446
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.16623836416605542
+Time upload: 0.3324767283321107
+Time upload: 0.49871509249816603
+Time upload: 0.6317057838310107
+Time upload: 0.7148249659140387
+Time upload: 0.7646964751638554
+Time upload: 0.7979441479970666
+Time upload: 0.8145679844136722
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 32.800000000000196/32.894707642976336 [00:33<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 147.00105094909668 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4658, test loss: 2.6358, round time: 183.6002562046051
+
+Running round: 130 - Time elapsed: 22482.02146434784 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 181.57579655988317
+Current T round: 183.03612164361144
+Max T round: 187.4495023134522
+Min T round: 175.73009547305446
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 2
+Time upload: 0
+Time upload: 0.15868732858238283
+Time upload: 0.3183111297284449
+Time upload: 0.4779349308745071
+Time upload: 0.6394316771479276
+Time upload: 0.8009284234213481
+Time upload: 0.966171059949485
+Time upload: 1.1323501690413011
+Time upload: 1.2649188672892824
+Time upload: 1.3480084218351904
+Time upload: 1.3984240381009427
+Time upload: 1.448839654366695
+Time upload: 1.4992552706324473
+Time upload: 1.5496708868981997
+Time upload: 1.600086503163952
+Time upload: 1.6168917085858694
+Selected data length (|D_UL|): 307200
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 35.500000000000234/35.55343066472728 [00:36<00:00,  1.02s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 129.85116839408875 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4794, test loss: 2.4994, round time: 170.02576303482056
+
+Running round: 131 - Time elapsed: 22652.048637151718 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 183.03612164361144
+Current T round: 179.08665426802406
+Max T round: 187.4495023134522
+Min T round: 175.73009547305446
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.18913540718201363
+Time upload: 0.3782708143640271
+Time upload: 0.5484926808278393
+Time upload: 0.6998010065734505
+Time upload: 0.7943687101644574
+Time upload: 0.870022873037263
+Time upload: 0.9078499544736658
+Time upload: 0.9267634951918672
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 34.800000000000225/34.81973785948212 [00:35<00:00,  1.02s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 130.51913237571716 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4532, test loss: 2.4607, round time: 169.20459079742432
+
+Running round: 132 - Time elapsed: 22821.25452566147 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 179.08665426802406
+Current T round: 184.95961039010297
+Max T round: 187.4495023134522
+Min T round: 175.73009547305446
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 32.800000000000196/32.811848378922285 [00:33<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 126.12544894218445 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4753, test loss: 2.1678, round time: 162.2924084663391
+
+Running round: 133 - Time elapsed: 22983.5484521389 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 184.95961039010297
+Current T round: 181.50175707443648
+Max T round: 187.4495023134522
+Min T round: 175.73009547305446
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.18601024284359752
+Time upload: 0.3720204856871949
+Time upload: 0.5394297042464324
+Time upload: 0.6696368742369505
+Time upload: 0.7626419956587491
+Time upload: 0.8556471170805477
+Time upload: 0.8928491656492672
+Time upload: 0.9114501899336269
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 34.200000000000216/34.2621650041488 [00:34<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 123.30443930625916 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.5377, test loss: 2.2320, round time: 161.43839573860168
+
+Running round: 134 - Time elapsed: 23144.988152980804 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 181.50175707443648
+Current T round: 182.29001699036013
+Max T round: 187.4495023134522
+Min T round: 175.73009547305446
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 31.70000000000018/31.766644188538013 [00:32<00:00,  1.01s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 151.0492458343506 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4193, test loss: 2.4506, round time: 186.17778992652893
+
+Running round: 135 - Time elapsed: 23331.16732788086 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 182.29001699036013
+Current T round: 185.08109444466598
+Max T round: 187.4495023134522
+Min T round: 175.73009547305446
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.17144767144094353
+Time upload: 0.3257505757377927
+Time upload: 0.4629087128905475
+Time upload: 0.6000668500433022
+Time upload: 0.702935452907868
+Time upload: 0.7715145214842452
+Time upload: 0.822948822916528
+Time upload: 0.8400935900606223
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 32.000000000000185/32.07887812735716 [00:32<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 153.97955060005188 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.5007, test loss: 2.1413, round time: 189.92624163627625
+
+Running round: 136 - Time elapsed: 23521.09490585327 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 185.08109444466598
+Current T round: 180.71803222511969
+Max T round: 187.4495023134522
+Min T round: 175.73009547305446
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 29.900000000000155/29.940459161155285 [00:30<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 146.3507902622223 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.4749, test loss: 2.6804, round time: 179.5132257938385
+
+Running round: 137 - Time elapsed: 23700.609783411026 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 180.71803222511969
+Current T round: 186.35175449067785
+Max T round: 187.4495023134522
+Min T round: 175.73009547305446
+Selected clients (S): 5 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 0
+Time upload: 0
+Selected data length (|D_UL|): 0
+Selected clients for this round: 5
+Distributing model...
+Distributing model...: 100%|█████████▉| 30.800000000000168/30.86632885526375 [00:31<00:00,  1.01s/it] 
+Scheduled model update and upload...
+Scheduled model update and upload time: 149.31235146522522 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.5028, test loss: 2.8237, round time: 183.44528818130493
+
+Running round: 138 - Time elapsed: 23884.05645918846 seconds
+Server requesting clients resources...
+Server selecting clients to train locally...
+Previous T round: 186.35175449067785
+Current T round: 182.21192835593476
+Max T round: 187.4495023134522
+Min T round: 175.73009547305446
+Selected clients (S): 4 out of 100
+Server selecting data to train centralized...
+Number of clients in U: 1
+Time upload: 0
+Time upload: 0.167075162511347
+Time upload: 0.3174428087715593
+Time upload: 0.4678104550317716
+Time upload: 0.5847630687897142
+Time upload: 0.7017156825476567
+Time upload: 0.7518382313010606
+Time upload: 0.7852532638033299
+Time upload: 0.8186682963055992
+Selected data length (|D_UL|): 153600
+Selected clients for this round: 4
+Distributing model...
+Distributing model...: 100%|█████████▉| 35.80000000000024/35.80596465732124 [00:36<00:00,  1.01s/it]  
+Scheduled model update and upload...
+Scheduled model update and upload time: 146.29656100273132 sec
+Centralized model update...
+Collecting weights...
+Aggregating global model...
+Server: Test acc: 0.3982, test loss: 4.1314, round time: 185.98225378990173
+Total clients selected: 602
+

@@ -22,9 +22,13 @@ def read_file(filename: str) -> Optional[List[str]]:
         return None
 
 
+def remove_blanks(data: List[str]) -> List[str]:
+    return list(filter(lambda line: line != " " and line != "", data))
+
+
 def clean_data(data: List[str]) -> List[int]:
     # remove blank lines
-    data = list(filter(lambda line: line != " " and line != "", data))
+    data = remove_blanks(data)
 
     assert all(len(d) != 0 for d in data), "There's blank spaces not filtered out."
 
@@ -100,3 +104,13 @@ def get_metrics(data: List[str]):
 def num_not_converged(train_out: List[str]):
     # filter not converged lines
     return len(list(filter(lambda line: "not converged" in line, train_out)))
+
+
+def get_num_selected_clients(output: List[str]):
+    selected = []
+    for line in output:
+        if "Selected clients for this round" in line:
+            mat = re.search(r"\d+", line)
+            selected.append(int(mat.group()))
+
+    return selected
